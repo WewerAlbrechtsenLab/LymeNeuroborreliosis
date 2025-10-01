@@ -1,0 +1,670 @@
+Entry	Entry Name	Protein names	Gene Names	GO
+P04217	A1BG_HUMAN	Alpha-1B-glycoprotein (Alpha-1-B glycoprotein)	A1BG	other
+P01023	A2MG_HUMAN	Alpha-2-macroglobulin (Alpha-2-M) (C3 and PZP-like alpha-2-macroglobulin domain-containing protein 5)	A2M CPAMD5 FWP007	acute-phase response [GO:0006953]
+Q96IU4	ABHEB_HUMAN	Putative protein-lysine deacylase ABHD14B (EC 2.3.1.-) (Alpha/beta hydrolase domain-containing protein 14B) (Abhydrolase domain-containing protein 14B) (CCG1-interacting factor B)	ABHD14B CIB	positive regulation of transcription by RNA polymerase II [GO:0045944]
+P62736	ACTA_HUMAN	Actin, aortic smooth muscle (EC 3.6.4.-) (Alpha-actin-2) (Cell growth-inhibiting gene 46 protein) [Cleaved into: Actin, aortic smooth muscle, intermediate form]	ACTA2 ACTSA ACTVS GIG46	positive regulation of gene expression [GO:0010628]
+P62736;P63267	ACTA_HUMAN; ACTA_HUMAN; ACTA_HUMAN; ACTA_HUMAN; ACTA_HUMAN; ACTA_HUMAN; ACTA_HUMAN; ACTA_HUMAN; ACTA_HUMAN; ACTA_HUMAN; ACTA_HUMAN; ACTA_HUMAN; ACTH_HUMAN; ACTH_HUMAN	Actin, aortic smooth muscle (EC 3.6.4.-) (Alpha-actin-2) (Cell growth-inhibiting gene 46 protein) [Cleaved into: Actin, aortic smooth muscle, intermediate form]; Actin, aortic smooth muscle (EC 3.6.4.-) (Alpha-actin-2) (Cell growth-inhibiting gene 46 protein) [Cleaved into: Actin, aortic smooth muscle, intermediate form]; Actin, aortic smooth muscle (EC 3.6.4.-) (Alpha-actin-2) (Cell growth-inhibiting gene 46 protein) [Cleaved into: Actin, aortic smooth muscle, intermediate form]; Actin, aortic smooth muscle (EC 3.6.4.-) (Alpha-actin-2) (Cell growth-inhibiting gene 46 protein) [Cleaved into: Actin, aortic smooth muscle, intermediate form]; Actin, aortic smooth muscle (EC 3.6.4.-) (Alpha-actin-2) (Cell growth-inhibiting gene 46 protein) [Cleaved into: Actin, aortic smooth muscle, intermediate form]; Actin, aortic smooth muscle (EC 3.6.4.-) (Alpha-actin-2) (Cell growth-inhibiting gene 46 protein) [Cleaved into: Actin, aortic smooth muscle, intermediate form]; Actin, aortic smooth muscle (EC 3.6.4.-) (Alpha-actin-2) (Cell growth-inhibiting gene 46 protein) [Cleaved into: Actin, aortic smooth muscle, intermediate form]; Actin, aortic smooth muscle (EC 3.6.4.-) (Alpha-actin-2) (Cell growth-inhibiting gene 46 protein) [Cleaved into: Actin, aortic smooth muscle, intermediate form]; Actin, aortic smooth muscle (EC 3.6.4.-) (Alpha-actin-2) (Cell growth-inhibiting gene 46 protein) [Cleaved into: Actin, aortic smooth muscle, intermediate form]; Actin, aortic smooth muscle (EC 3.6.4.-) (Alpha-actin-2) (Cell growth-inhibiting gene 46 protein) [Cleaved into: Actin, aortic smooth muscle, intermediate form]; Actin, aortic smooth muscle (EC 3.6.4.-) (Alpha-actin-2) (Cell growth-inhibiting gene 46 protein) [Cleaved into: Actin, aortic smooth muscle, intermediate form]; Actin, aortic smooth muscle (EC 3.6.4.-) (Alpha-actin-2) (Cell growth-inhibiting gene 46 protein) [Cleaved into: Actin, aortic smooth muscle, intermediate form]; Actin, gamma-enteric smooth muscle (EC 3.6.4.-) (Alpha-actin-3) (Gamma-2-actin) (Smooth muscle gamma-actin) [Cleaved into: Actin, gamma-enteric smooth muscle, intermediate form]; Actin, gamma-enteric smooth muscle (EC 3.6.4.-) (Alpha-actin-3) (Gamma-2-actin) (Smooth muscle gamma-actin) [Cleaved into: Actin, gamma-enteric smooth muscle, intermediate form]	ACTA2 ACTSA ACTVS GIG46; ACTA2 ACTSA ACTVS GIG46; ACTA2 ACTSA ACTVS GIG46; ACTA2 ACTSA ACTVS GIG46; ACTA2 ACTSA ACTVS GIG46; ACTA2 ACTSA ACTVS GIG46; ACTA2 ACTSA ACTVS GIG46; ACTA2 ACTSA ACTVS GIG46; ACTA2 ACTSA ACTVS GIG46; ACTA2 ACTSA ACTVS GIG46; ACTA2 ACTSA ACTVS GIG46; ACTA2 ACTSA ACTVS GIG46; ACTG2 ACTA3 ACTL3 ACTSG; ACTG2 ACTA3 ACTL3 ACTSG	positive regulation of gene expression [GO:0010628]
+P60709	ACTB_HUMAN	Actin, cytoplasmic 1 (EC 3.6.4.-) (Beta-actin) [Cleaved into: Actin, cytoplasmic 1, N-terminally processed]	ACTB	positive regulation of cell population proliferation [GO:0008284]
+Q562R1	ACTBL_HUMAN	Beta-actin-like protein 2 (Kappa-actin)	ACTBL2	axonogenesis [GO:0007409]
+P63267	ACTH_HUMAN	Actin, gamma-enteric smooth muscle (EC 3.6.4.-) (Alpha-actin-3) (Gamma-2-actin) (Smooth muscle gamma-actin) [Cleaved into: Actin, gamma-enteric smooth muscle, intermediate form]	ACTG2 ACTA3 ACTL3 ACTSG	positive regulation of gene expression [GO:0010628]
+P14621	ACYP2_HUMAN	Acylphosphatase-2 (EC 3.6.1.7) (Acylphosphatase, muscle type isozyme) (Acylphosphate phosphohydrolase 2)	ACYP2 ACYP	other
+Q9NZK5	ADA2_HUMAN	Adenosine deaminase 2 (EC 3.5.4.4) (Cat eye syndrome critical region protein 1)	ADA2 ADGF CECR1 IDGFL	other
+Q9P0K1	ADA22_HUMAN	Disintegrin and metalloproteinase domain-containing protein 22 (ADAM 22) (Metalloproteinase-disintegrin ADAM22-3) (Metalloproteinase-like, disintegrin-like, and cysteine-rich protein 2)	ADAM22 MDC2	cell adhesion [GO:0007155]
+O60241	AGRB2_HUMAN	Adhesion G protein-coupled receptor B2 (Brain-specific angiogenesis inhibitor 2)	ADGRB2 BAI2	cell surface receptor signaling pathway [GO:0007166]
+O60242	AGRB3_HUMAN	Adhesion G protein-coupled receptor B3 (Brain-specific angiogenesis inhibitor 3)	ADGRB3 BAI3 KIAA0550	cell surface receptor signaling pathway [GO:0007166]
+O94910	AGRL1_HUMAN	Adhesion G protein-coupled receptor L1 (Calcium-independent alpha-latrotoxin receptor 1) (CIRL-1) (Latrophilin-1) (Lectomedin-2)	ADGRL1 KIAA0821 LEC2 LPHN1	cell surface receptor signaling pathway [GO:0007166]
+A0A804HKL8	A0A804HKL8_HUMAN	Adhesion G protein-coupled receptor L3	ADGRL3	cell surface receptor signaling pathway [GO:0007166]
+A0A804HKL8;E7EN28;E7ESV6;E7ETE3;E7EUP0;E7EUW2;E7EVD6;E7EX52	A0A804HKL8_HUMAN; E7EN28_HUMAN; E7ESV6_HUMAN; E7ETE3_HUMAN; E7EUP0_HUMAN; E7EUW2_HUMAN; E7EVD6_HUMAN; E7EX52_HUMAN	Adhesion G protein-coupled receptor L3; Adhesion G protein-coupled receptor L3; Adhesion G protein-coupled receptor L3; Adhesion G protein-coupled receptor L3; Adhesion G protein-coupled receptor L3; Adhesion G protein-coupled receptor L3; Adhesion G protein-coupled receptor L3; Adhesion G protein-coupled receptor L3	ADGRL3; ADGRL3; ADGRL3; ADGRL3; ADGRL3; ADGRL3; ADGRL3; ADGRL3	cell surface receptor signaling pathway [GO:0007166]
+Q15848	ADIPO_HUMAN	Adiponectin (30 kDa adipocyte complement-related protein) (Adipocyte complement-related 30 kDa protein) (ACRP30) (Adipocyte, C1q and collagen domain-containing protein) (Adipose most abundant gene transcript 1 protein) (apM-1) (Gelatin-binding protein)	ADIPOQ ACDC ACRP30 APM1 GBP28	positive regulation of protein phosphorylation [GO:0001934]
+Q8IUX7	AEBP1_HUMAN	Adipocyte enhancer-binding protein 1 (AE-binding protein 1) (Aortic carboxypeptidase-like protein)	AEBP1 ACLP	other
+P43652	AFAM_HUMAN	Afamin (Alpha-albumin) (Alpha-Alb)	AFM ALB2 ALBA	protein stabilization [GO:0050821]
+P20933	ASPG_HUMAN	N(4)-(beta-N-acetylglucosaminyl)-L-asparaginase (EC 3.5.1.26) (Aspartylglucosaminidase) (Glycosylasparaginase) (N4-(N-acetyl-beta-glucosaminyl)-L-asparagine amidase) [Cleaved into: Glycosylasparaginase alpha chain; Glycosylasparaginase beta chain]	AGA	proteolysis [GO:0006508]
+A0A494C0G5	A0A494C0G5_HUMAN	Agrin	AGRN	cell differentiation [GO:0030154]
+P01019	ANGT_HUMAN	Angiotensinogen (Serpin A8) [Cleaved into: Angiotensin-1 (Angiotensin 1-10) (Angiotensin I) (Ang I); Angiotensin-2 (Angiotensin 1-8) (Angiotensin II) (Ang II); Angiotensin-3 (Angiotensin 2-8) (Angiotensin III) (Ang III) (Des-Asp[1]-angiotensin II); Angiotensin-4 (Angiotensin 3-8) (Angiotensin IV) (Ang IV); Angiotensin 1-9; Angiotensin 1-7; Angiotensin 1-5; Angiotensin 1-4]	AGT SERPINA8	positive regulation of phosphatidylinositol 3-kinase/protein kinase B signal transduction [GO:0051897]
+P02765	FETUA_HUMAN	Alpha-2-HS-glycoprotein (Alpha-2-Z-globulin) (Ba-alpha-2-glycoprotein) (Fetuin-A) [Cleaved into: Alpha-2-HS-glycoprotein chain A; Alpha-2-HS-glycoprotein chain B]	AHSG FETUA PRO2743	acute-phase response [GO:0006953]
+P02768	ALBU_HUMAN	Albumin	ALB GIG20 GIG42 PRO0903 PRO1708 PRO2044 PRO2619 PRO2675 UNQ696/PRO1341	other
+Q13740	CD166_HUMAN	CD166 antigen (Activated leukocyte cell adhesion molecule) (CD antigen CD166)	ALCAM MEMD	cell adhesion [GO:0007155]
+P04075	ALDOA_HUMAN	Fructose-bisphosphate aldolase A (EC 4.1.2.13) (Lung cancer antigen NY-LU-1) (Muscle-type aldolase)	ALDOA ALDA	regulation of cell shape [GO:0008360]
+P09972	ALDOC_HUMAN	Fructose-bisphosphate aldolase C (EC 4.1.2.13) (Brain-type aldolase)	ALDOC ALDC	other
+P02760	AMBP_HUMAN	Protein AMBP (Protein HC) [Cleaved into: Alpha-1-microglobulin (EC 1.6.2.-) (Alpha-1 microglycoprotein) (Complex-forming glycoprotein heterogeneous in charge); Inter-alpha-trypsin inhibitor light chain (ITI-LC) (Bikunin) (EDC1) (HI-30) (Uronic-acid-rich protein); Trypstatin]	AMBP HCP ITIL	cell adhesion [GO:0007155]
+P19961	AMY2B_HUMAN	Alpha-amylase 2B (EC 3.2.1.1) (1,4-alpha-D-glucan glucanohydrolase 2B) (Carcinoid alpha-amylase)	AMY2B	carbohydrate metabolic process [GO:0005975]
+P03950	ANGI_HUMAN	Angiogenin (EC 3.1.27.-) (Ribonuclease 5) (RNase 5)	ANG RNASE5	innate immune response [GO:0045087]
+O43827	ANGL7_HUMAN	Angiopoietin-related protein 7 (Angiopoietin-like factor) (Angiopoietin-like protein 7) (Cornea-derived transcript 6 protein)	ANGPTL7 CDT6 UNQ313/PRO356	other
+P15144	AMPN_HUMAN	Aminopeptidase N (AP-N) (hAPN) (EC 3.4.11.2) (Alanyl aminopeptidase) (Aminopeptidase M) (AP-M) (Microsomal aminopeptidase) (Myeloid plasma membrane glycoprotein CD13) (gp150) (CD antigen CD13)	ANPEP APN CD13 PEPN	proteolysis [GO:0006508]
+P08758	ANXA5_HUMAN	Annexin A5 (Anchorin CII) (Annexin V) (Annexin-5) (Calphobindin I) (CPB-I) (Endonexin II) (Lipocortin V) (Placental anticoagulant protein 4) (PP4) (Placental anticoagulant protein I) (PAP-I) (Thromboplastin inhibitor) (Vascular anticoagulant-alpha) (VAC-alpha)	ANXA5 ANX5 ENX2 PP4	signal transduction [GO:0007165]
+P02743	SAMP_HUMAN	Serum amyloid P-component (SAP) (9.5S alpha-1-glycoprotein) [Cleaved into: Serum amyloid P-component(1-203)]	APCS PTX2	innate immune response [GO:0045087]
+P51693	APLP1_HUMAN	Amyloid beta precursor like protein 1 (Amyloid beta (A4) precursor-like protein 1) (Amyloid-like protein 1) (APLP) (APLP-1) [Cleaved into: C30]	APLP1	cell adhesion [GO:0007155]
+Q06481	APLP2_HUMAN	Amyloid beta precursor like protein 2 (APPH) (Amyloid beta (A4) precursor-like protein 2) (Amyloid protein homolog) (Amyloid-like protein 2) (APLP-2) (CDEI box-binding protein) (CDEBP) (Sperm membrane protein YWK-II)	APLP2 APPL2	central nervous system development [GO:0007417]
+P02647	APOA1_HUMAN	Apolipoprotein A-I (Apo-AI) (ApoA-I) (Apolipoprotein A1) [Cleaved into: Proapolipoprotein A-I (ProapoA-I); Truncated apolipoprotein A-I (Apolipoprotein A-I(1-242))]	APOA1	G protein-coupled receptor signaling pathway [GO:0007186]
+V9GYM3	V9GYM3_HUMAN	Apolipoprotein A-II (Apolipoprotein A2)	APOA2	other
+P06727	APOA4_HUMAN	Apolipoprotein A-IV (Apo-AIV) (ApoA-IV) (Apolipoprotein A4)	APOA4	cholesterol metabolic process [GO:0008203]
+A0AAG2UUW0	A0AAG2UUW0_HUMAN	Apolipoprotein B	APOB	other
+P02654	APOC1_HUMAN	Apolipoprotein C-I (Apo-CI) (ApoC-I) (Apolipoprotein C1) [Cleaved into: Truncated apolipoprotein C-I]	APOC1	cholesterol metabolic process [GO:0008203]
+P02656	APOC3_HUMAN	Apolipoprotein C-III (Apo-CIII) (ApoC-III) (Apolipoprotein C3)	APOC3	G protein-coupled receptor signaling pathway [GO:0007186]
+K7ER74	K7ER74_HUMAN	Apolipoprotein C-II (Apo-CII) (ApoC-II) (Apolipoprotein C2)	APOC4-APOC2	other
+P05090	APOD_HUMAN	Apolipoprotein D (Apo-D) (ApoD)	APOD	angiogenesis [GO:0001525]
+P02649	APOE_HUMAN	Apolipoprotein E (Apo-E)	APOE	positive regulation of ERK1 and ERK2 cascade [GO:0070374]
+P02749	APOH_HUMAN	Beta-2-glycoprotein 1 (APC inhibitor) (Activated protein C-binding protein) (Anticardiolipin cofactor) (Apolipoprotein H) (Apo-H) (Beta-2-glycoprotein I) (B2GPI) (Beta(2)GPI)	APOH B2G1	other
+O14791	APOL1_HUMAN	Apolipoprotein L1 (Apolipoprotein L) (Apo-L) (ApoL) (Apolipoprotein L-I) (ApoL-I)	APOL1 APOL	innate immune response [GO:0045087]
+O95445	APOM_HUMAN	Apolipoprotein M (Apo-M) (ApoM) (Protein G3a)	APOM G3A NG20 HSPC336	other
+P05067	A4_HUMAN	Amyloid-beta precursor protein (APP) (ABPP) (APPI) (Alzheimer disease amyloid A4 protein homolog) (Alzheimer disease amyloid protein) (Amyloid precursor protein) (Amyloid-beta (A4) precursor protein) (Amyloid-beta A4 protein) (Cerebral vascular amyloid peptide) (CVAP) (PreA4) (Protease nexin-II) (PN-II) [Cleaved into: N-APP; Soluble APP-alpha (S-APP-alpha); Soluble APP-beta (S-APP-beta); C99 (Beta-secretase C-terminal fragment) (Beta-CTF); Amyloid-beta protein 42 (Abeta42) (Beta-APP42); Amyloid-beta protein 40 (Abeta40) (Beta-APP40); C83 (Alpha-secretase C-terminal fragment) (Alpha-CTF); P3(42); P3(40); C80; Gamma-secretase C-terminal fragment 59 (Amyloid intracellular domain 59) (AICD-59) (AID(59)) (Gamma-CTF(59)); Gamma-secretase C-terminal fragment 57 (Amyloid intracellular domain 57) (AICD-57) (AID(57)) (Gamma-CTF(57)); Gamma-secretase C-terminal fragment 50 (Amyloid intracellular domain 50) (AICD-50) (AID(50)) (Gamma-CTF(50)); C31]	APP A4 AD1	cell adhesion [GO:0007155]
+Q13508	NAR3_HUMAN	Ecto-ADP-ribosyltransferase 3 (EC 2.4.2.31) (ADP-ribosyltransferase C2 and C3 toxin-like 3) (ARTC3) (Mono(ADP-ribosyl)transferase 3) (NAD(P)(+)--arginine ADP-ribosyltransferase 3)	ART3 TMART	other
+Q13510	ASAH1_HUMAN	Acid ceramidase (AC) (ACDase) (Acid CDase) (EC 3.5.1.23) (Acylsphingosine deacylase) (Glycosylceramide deacylase) (EC 3.5.1.109) (N-acylethanolamine hydrolase ASAH1) (EC 3.5.1.-) (N-acylsphingosine amidohydrolase) (Putative 32 kDa heart protein) (PHP32) [Cleaved into: Acid ceramidase subunit alpha; Acid ceramidase subunit beta]	ASAH1 ASAH HSD-33 HSD33	other
+Q15904	VAS1_HUMAN	V-type proton ATPase subunit S1 (V-ATPase subunit S1) (Protein XAP-3) (V-ATPase Ac45 subunit) (V-ATPase S1 accessory protein) (Vacuolar proton pump subunit S1)	ATP6AP1 ATP6IP1 ATP6S1 VATPS1 XAP3	other
+O75882	ATRN_HUMAN	Attractin (DPPT-L) (Mahogany homolog)	ATRN KIAA0548 MGCA	inflammatory response [GO:0006954]
+P30530	UFO_HUMAN	Tyrosine-protein kinase receptor UFO (EC 2.7.10.1) (AXL oncogene)	AXL UFO	innate immune response [GO:0045087]
+P25311	ZA2G_HUMAN	Zinc-alpha-2-glycoprotein (Zn-alpha-2-GP) (Zn-alpha-2-glycoprotein)	AZGP1 ZAG ZNGP1	cell adhesion [GO:0007155]
+H0YLF3	H0YLF3_HUMAN	Beta-2-microglobulin	B2M	other
+P61769	B2MG_HUMAN	Beta-2-microglobulin [Cleaved into: Beta-2-microglobulin form pI 5.3]	B2M CDABP0092 HDCMA22P	negative regulation of neuron projection development [GO:0010977]
+Q9NY97	B3GN2_HUMAN	N-acetyllactosaminide beta-1,3-N-acetylglucosaminyltransferase 2 (EC 2.4.1.149) (Beta-1,3-N-acetylglucosaminyltransferase 1) (BGnT-1) (Beta-1,3-Gn-T1) (Beta3Gn-T1) (Beta-1,3-galactosyltransferase 7) (Beta-1,3-GalTase 7) (Beta3Gal-T7) (Beta3GalT7) (b3Gal-T7) (Beta-3-Gx-T7) (UDP-Gal:beta-GlcNAc beta-1,3-galactosyltransferase 7) (UDP-GlcNAc:betaGal beta-1,3-N-acetylglucosaminyltransferase 2) (BGnT-2) (Beta-1,3-Gn-T2) (Beta-1,3-N-acetylglucosaminyltransferase 2) (Beta3Gn-T2) (UDP-galactose:beta-N-acetylglucosamine beta-1,3-galactosyltransferase 7)	B3GNT2 B3GALT7 B3GNT1	axon guidance [GO:0007411]
+P15291	B4GT1_HUMAN	Beta-1,4-galactosyltransferase 1 (Beta-1,4-GalTase 1) (Beta4Gal-T1) (b4Gal-T1) (EC 2.4.1.-) (Beta-N-acetylglucosaminyl-glycolipid beta-1,4-galactosyltransferase) (Beta-N-acetylglucosaminylglycopeptide beta-1,4-galactosyltransferase) (EC 2.4.1.38) (Lactose synthase A protein) (EC 2.4.1.22) (N-acetyllactosamine synthase) (EC 2.4.1.90) (Nal synthase) (Neolactotriaosylceramide beta-1,4-galactosyltransferase) (EC 2.4.1.275) (UDP-Gal:beta-GlcNAc beta-1,4-galactosyltransferase 1) (UDP-galactose:beta-N-acetylglucosamine beta-1,4-galactosyltransferase 1) [Cleaved into: Processed beta-1,4-galactosyltransferase 1]	B4GALT1 GGTB2	cell adhesion [GO:0007155]
+O43505	B4GA1_HUMAN	Beta-1,4-glucuronyltransferase 1 (EC 2.4.1.-) (I-beta-1,3-N-acetylglucosaminyltransferase) (iGnT) (N-acetyllactosaminide beta-1,3-N-acetylglucosaminyltransferase) (Poly-N-acetyllactosamine extension enzyme) (UDP-GlcNAc:betaGal beta-1,3-N-acetylglucosaminyltransferase 1)	B4GAT1 B3GNT1 B3GNT6	axon guidance [GO:0007411]
+P80723	BASP1_HUMAN	Brain acid soluble protein 1 (22 kDa neuronal tissue-enriched acidic protein) (Neuronal axonal membrane protein NAP-22)	BASP1 NAP22	other
+Q96GW7	PGCB_HUMAN	Brevican core protein (Brain-enriched hyaluronan-binding protein) (BEHAB) (Chondroitin sulfate proteoglycan 7)	BCAN BEHAB CSPG7 UNQ2525/PRO6018	cell adhesion [GO:0007155]
+P06276	CHLE_HUMAN	Cholinesterase (EC 3.1.1.8) (Acylcholine acylhydrolase) (Butyrylcholine esterase) (Choline esterase II) (Pseudocholinesterase)	BCHE CHE1	negative regulation of cell population proliferation [GO:0008285]
+Q9NX62	IMPA3_HUMAN	Golgi-resident adenosine 3',5'-bisphosphate 3'-phosphatase (Golgi-resident PAP phosphatase) (gPAPP) (EC 3.1.3.7) (3'(2'), 5'-bisphosphate nucleotidase 2) (Inositol monophosphatase domain-containing protein 1) (Myo-inositol monophosphatase A3) (Phosphoadenosine phosphate 3'-nucleotidase)	BPNT2 IMPA3 IMPAD1	skeletal system development [GO:0001501]
+P43251	BTD_HUMAN	Biotinidase (Biotinase) (EC 3.5.1.12)	BTD	central nervous system development [GO:0007417]
+Q6UX73	CP089_HUMAN	UPF0764 protein C16orf89	C16orf89 UNQ904/PRO1925	other
+P02745	C1QA_HUMAN	Complement C1q subcomponent subunit A	C1QA	innate immune response [GO:0045087]
+P02746	C1QB_HUMAN	Complement C1q subcomponent subunit B	C1QB	innate immune response [GO:0045087]
+P02747	C1QC_HUMAN	Complement C1q subcomponent subunit C	C1QC C1QG	immune response [GO:0006955]
+Q9BXJ0	C1QT5_HUMAN	Complement C1q tumor necrosis factor-related protein 5	C1QTNF5 CTRP5 UNQ303/PRO344	other
+P00736	C1R_HUMAN	Complement C1r subcomponent (EC 3.4.21.41) (Complement component 1 subcomponent r) [Cleaved into: Complement C1r subcomponent heavy chain; Complement C1r subcomponent light chain]	C1R	immune response [GO:0006955]
+Q9NZP8	C1RL_HUMAN	Complement C1r subcomponent-like protein (C1r-LP) (C1r-like protein) (EC 3.4.21.-) (C1r-like serine protease analog protein) (CLSPa)	C1RL C1RL1 C1RLP CLSPA	innate immune response [GO:0045087]
+P09871	C1S_HUMAN	Complement C1s subcomponent (EC 3.4.21.42) (C1 esterase) (Complement component 1 subcomponent s) [Cleaved into: Complement C1s subcomponent heavy chain; Complement C1s subcomponent light chain]	C1S	proteolysis [GO:0006508]
+P06681	CO2_HUMAN	Complement C2 (EC 3.4.21.43) (C3/C5 convertase) [Cleaved into: Complement C2b fragment; Complement C2a fragment]	C2	proteolysis [GO:0006508]
+A0A8Q3WM02	A0A8Q3WM02_HUMAN	Complement C3	C3	inflammatory response [GO:0006954]
+P01024	CO3_HUMAN	Complement C3 (C3 and PZP-like alpha-2-macroglobulin domain-containing protein 1) [Cleaved into: Complement C3 beta chain; C3-beta-c (C3bc); Complement C3 alpha chain; C3a anaphylatoxin; Acylation stimulating protein (ASP) (C3adesArg); Complement C3b alpha' chain; Complement C3c alpha' chain fragment 1; Complement C3dg fragment; Complement C3g fragment; Complement C3d fragment; Complement C3f fragment; Complement C3c alpha' chain fragment 2]	C3 CPAMD1	immune response [GO:0006955]
+P0C0L4	CO4A_HUMAN	Complement C4-A (Acidic complement C4) (C3 and PZP-like alpha-2-macroglobulin domain-containing protein 2) [Cleaved into: Complement C4 beta chain; Complement C4-A alpha chain; C4a anaphylatoxin; C4b-A; C4d-A; Complement C4 gamma chain]	C4A CO4 CPAMD2	innate immune response [GO:0045087]
+A0A3B3ISA6	A0A3B3ISA6_HUMAN	Complement C4B (Chido blood group)	C4B	innate immune response [GO:0045087]
+P04003	C4BPA_HUMAN	C4b-binding protein alpha chain (C4bp) (Proline-rich protein) (PRP)	C4BPA C4BP	innate immune response [GO:0045087]
+P01031	CO5_HUMAN	Complement C5 (C3 and PZP-like alpha-2-macroglobulin domain-containing protein 4) [Cleaved into: Complement C5 beta chain; Complement C5 alpha chain; C5a anaphylatoxin; Complement C5 alpha' chain]	C5 CPAMD4	inflammatory response [GO:0006954]
+P13671	CO6_HUMAN	Complement component C6	C6	innate immune response [GO:0045087]
+P10643	CO7_HUMAN	Complement component C7	C7	complement activation, classical pathway [GO:0006958]
+P07357	CO8A_HUMAN	Complement component C8 alpha chain (Complement component 8 subunit alpha)	C8A	immune response [GO:0006955]
+P07358	CO8B_HUMAN	Complement component C8 beta chain (Complement component 8 subunit beta)	C8B	immune response [GO:0006955]
+P07360	CO8G_HUMAN	Complement component C8 gamma chain	C8G	complement activation, classical pathway [GO:0006958]
+P02748	CO9_HUMAN	Complement component C9 [Cleaved into: Complement component C9a; Complement component C9b]	C9	complement activation, classical pathway [GO:0006958]
+P22748	CAH4_HUMAN	Carbonic anhydrase 4 (EC 4.2.1.1) (Carbonate dehydratase IV) (Carbonic anhydrase IV) (CA-IV)	CA4	other
+Q5VU97	CAHD1_HUMAN	VWFA and cache domain-containing protein 1 (Cache domain-containing protein 1)	CACHD1 KIAA1573 VWCD1	other
+P54289	CA2D1_HUMAN	Voltage-dependent calcium channel subunit alpha-2/delta-1 (Voltage-gated calcium channel subunit alpha-2/delta-1) [Cleaved into: Voltage-dependent calcium channel subunit alpha-2-1; Voltage-dependent calcium channel subunit delta-1]	CACNA2D1 CACNL2A CCHL2A MHS3	other
+C9JE82	C9JE82_HUMAN	Calcium voltage-gated channel auxiliary subunit alpha2delta 2	CACNA2D2	other
+Q9BY67	CADM1_HUMAN	Cell adhesion molecule 1 (Immunoglobulin superfamily member 4) (IgSF4) (Nectin-like protein 2) (NECL-2) (Spermatogenic immunoglobulin superfamily) (SgIgSF) (Synaptic cell adhesion molecule) (SynCAM) (Tumor suppressor in lung cancer 1) (TSLC-1)	CADM1 IGSF4 IGSF4A NECL2 SYNCAM TSLC1	homophilic cell adhesion via plasma membrane adhesion molecules [GO:0007156]
+Q8N3J6	CADM2_HUMAN	Cell adhesion molecule 2 (Immunoglobulin superfamily member 4D) (IgSF4D) (Nectin-like protein 3) (NECL-3) (Synaptic cell adhesion molecule 2) (SynCAM 2)	CADM2 IGSF4D NECL3	homophilic cell adhesion via plasma membrane adhesion molecules [GO:0007156]
+Q8N126	CADM3_HUMAN	Cell adhesion molecule 3 (Brain immunoglobulin receptor) (Immunoglobulin superfamily member 4B) (IgSF4B) (Nectin-like protein 1) (NECL-1) (Synaptic cell adhesion molecule 3) (SynCAM3) (TSLC1-like protein 1) (TSLL1)	CADM3 IGSF4B NECL1 SYNCAM3 TSLL1 UNQ225/PRO258	homophilic cell adhesion via plasma membrane adhesion molecules [GO:0007156]
+Q8NFZ8	CADM4_HUMAN	Cell adhesion molecule 4 (Immunoglobulin superfamily member 4C) (IgSF4C) (Nectin-like protein 4) (NECL-4) (TSLC1-like protein 2)	CADM4 IGSF4C NECL4 TSLL2	homophilic cell adhesion via plasma membrane adhesion molecules [GO:0007156]
+P05937	CALB1_HUMAN	Calbindin (Calbindin D28) (D-28K) (Vitamin D-dependent calcium-binding protein, avian-type)	CALB1 CAB27	locomotory behavior [GO:0007626]
+P27797	CALR_HUMAN	Calreticulin (CRP55) (Calregulin) (Endoplasmic reticulum resident protein 60) (ERp60) (HACBP) (grp60)	CALR CRTC	positive regulation of gene expression [GO:0010628]
+Q9UQM7	KCC2A_HUMAN	Calcium/calmodulin-dependent protein kinase type II subunit alpha (CaM kinase II subunit alpha) (CaMK-II subunit alpha) (EC 2.7.11.17)	CAMK2A CAMKA KIAA0968	other
+Q13554	KCC2B_HUMAN	Calcium/calmodulin-dependent protein kinase type II subunit beta (CaM kinase II subunit beta) (CaMK-II subunit beta) (EC 2.7.11.17)	CAMK2B CAM2 CAMK2 CAMKB	signal transduction [GO:0007165]
+Q8WVQ1	CANT1_HUMAN	Soluble calcium-activated nucleotidase 1 (SCAN-1) (EC 3.6.1.6) (Apyrase homolog) (Putative MAPK-activating protein PM09) (Putative NF-kappa-B-activating protein 107)	CANT1 SHAPY	other
+P27824	CALX_HUMAN	Calnexin (IP90) (Major histocompatibility complex class I antigen-binding protein p88) (p90)	CANX	protein folding [GO:0006457]
+Q16568	CART_HUMAN	Cocaine- and amphetamine-regulated transcript protein [Cleaved into: CART(1-39); CART(42-89)]	CARTPT CART	signal transduction [GO:0007165]
+P23435	CBLN1_HUMAN	Cerebellin-1 (Precerebellin) [Cleaved into: Cerebellin (CER); [des-Ser1]-cerebellin]	CBLN1	nervous system development [GO:0007399]
+Q6UW01	CBLN3_HUMAN	Cerebellin-3	CBLN3 UNQ755/PRO1486	other
+P16152	CBR1_HUMAN	Carbonyl reductase [NADPH] 1 (EC 1.1.1.184) (15-hydroxyprostaglandin dehydrogenase [NADP(+)]) (EC 1.1.1.196, EC 1.1.1.197) (20-beta-hydroxysteroid dehydrogenase) (Alcohol dehydrogenase [NAD(P)+] CBR1) (EC 1.1.1.71) (NADPH-dependent carbonyl reductase 1) (Prostaglandin 9-ketoreductase) (PG-9-KR) (Prostaglandin-E(2) 9-reductase) (EC 1.1.1.189) (Short chain dehydrogenase/reductase family 21C member 1)	CBR1 CBR CRN SDR21C1	other
+P08571	CD14_HUMAN	Monocyte differentiation antigen CD14 (My23 antigen) (Myeloid cell-specific leucine-rich glycoprotein) (CD antigen CD14) [Cleaved into: Monocyte differentiation antigen CD14, urinary form; Monocyte differentiation antigen CD14, membrane-bound form]	CD14	innate immune response [GO:0045087]
+Q86VB7	C163A_HUMAN	Scavenger receptor cysteine-rich type 1 protein M130 (Hemoglobin scavenger receptor) (CD antigen CD163) [Cleaved into: Soluble CD163 (sCD163)]	CD163 M130	acute-phase response [GO:0006953]
+Q9HCU0	CD248_HUMAN	Endosialin (Tumor endothelial marker 1) (CD antigen CD248)	CD248 CD164L1 TEM1	cell migration [GO:0016477]
+P16070	CD44_HUMAN	CD44 antigen (CDw44) (Epican) (Extracellular matrix receptor III) (ECMR-III) (GP90 lymphocyte homing/adhesion receptor) (HUTCH-I) (Heparan sulfate proteoglycan) (Hermes antigen) (Hyaluronate receptor) (Phagocytic glycoprotein 1) (PGP-1) (Phagocytic glycoprotein I) (PGP-I) (CD antigen CD44)	CD44 LHR MDU2 MDU3 MIC4	cell adhesion [GO:0007155]
+P13987	CD59_HUMAN	CD59 glycoprotein (1F5 antigen) (20 kDa homologous restriction factor) (HRF-20) (HRF20) (MAC-inhibitory protein) (MAC-IP) (MEM43 antigen) (Membrane attack complex inhibition factor) (MACIF) (Membrane inhibitor of reactive lysis) (MIRL) (Protectin) (CD antigen CD59)	CD59 MIC11 MIN1 MIN2 MIN3 MSK21	blood coagulation [GO:0007596]
+O43866	CD5L_HUMAN	CD5 antigen-like (Apoptosis inhibitor expressed by macrophages) (hAIM) (CT-2) (IgM-associated peptide) (SP-alpha)	CD5L API6 UNQ203/PRO229	inflammatory response [GO:0006954]
+Q99459	CDC5L_HUMAN	Cell division cycle 5-like protein (Cdc5-like protein) (Pombe cdc5-related protein)	CDC5L KIAA0432 PCDC5RP	positive regulation of transcription by RNA polymerase II [GO:0045944]
+P55287	CAD11_HUMAN	Cadherin-11 (OSF-4) (Osteoblast cadherin) (OB-cadherin)	CDH11	cell adhesion [GO:0007155]
+P55290	CAD13_HUMAN	Cadherin-13 (Heart cadherin) (H-cadherin) (P105) (Truncated cadherin) (T-cad) (T-cadherin)	CDH13 CDHH	homophilic cell adhesion via plasma membrane adhesion molecules [GO:0007156]
+P19022	CADH2_HUMAN	Cadherin-2 (CDw325) (Neural cadherin) (N-cadherin) (CD antigen CD325)	CDH2 CDHN NCAD	cell adhesion [GO:0007155]
+P55283	CADH4_HUMAN	Cadherin-4 (Retinal cadherin) (R-CAD) (R-cadherin)	CDH4	cell adhesion [GO:0007155]
+P33151	CADH5_HUMAN	Cadherin-5 (7B4 antigen) (Vascular endothelial cadherin) (VE-cadherin) (CD antigen CD144)	CDH5	homophilic cell adhesion via plasma membrane adhesion molecules [GO:0007156]
+P55285	CADH6_HUMAN	Cadherin-6 (Kidney cadherin) (K-cadherin)	CDH6	cell adhesion [GO:0007155]
+P55286	CADH8_HUMAN	Cadherin-8	CDH8	cell adhesion [GO:0007155]
+Q9HCU4	CELR2_HUMAN	Cadherin EGF LAG seven-pass G-type receptor 2 (Cadherin family member 10) (Epidermal growth factor-like protein 2) (EGF-like protein 2) (Flamingo homolog 3) (Multiple epidermal growth factor-like domains protein 3) (Multiple EGF-like domains protein 3)	CELSR2 CDHF10 EGFL2 KIAA0279 MEGF3	homophilic cell adhesion via plasma membrane adhesion molecules [GO:0007156]
+P00746	CFAD_HUMAN	Complement factor D (EC 3.4.21.46) (Adipsin) (C3 convertase activator) (Properdin factor D)	CFD DF PFD	proteolysis [GO:0006508]
+P08603	CFAH_HUMAN	Complement factor H (H factor 1)	CFH HF HF1 HF2	proteolysis [GO:0006508]
+Q03591	FHR1_HUMAN	Complement factor H-related protein 1 (FHR-1) (H factor-like protein 1) (FHL-1) (H-factor-like 1) (H36)	CFHR1 CFHL CFHL1 CFHL1P CFHR1P FHR1 HFL1 HFL2	complement activation [GO:0006956]
+P05156	CFAI_HUMAN	Complement factor I (EC 3.4.21.45) (C3B/C4B inactivator) [Cleaved into: Complement factor I heavy chain; Complement factor I light chain]	CFI IF	proteolysis [GO:0006508]
+Q99674	CGRE1_HUMAN	Cell growth regulator with EF hand domain protein 1 (Cell growth regulatory gene 11 protein) (Hydrophobestin)	CGREF1 CGR11	cell adhesion [GO:0007155]
+O15335	CHAD_HUMAN	Chondroadherin (Cartilage leucine-rich protein)	CHAD SLRR4A	other
+P10645	CMGA_HUMAN	Chromogranin-A (CgA) (Pituitary secretory protein I) (SP-I) [Cleaved into: Vasostatin-1 (Vasostatin I); Vasostatin-2 (Vasostatin II); EA-92; ES-43; Pancreastatin; SS-18; WA-8; WE-14; LF-19; Catestatin (SL21); AL-11; GV-19; GR-44; ER-37; GE-25; Serpinin-RRG; Serpinin; p-Glu serpinin precursor]	CHGA	innate immune response [GO:0045087]
+P05060	SCG1_HUMAN	Secretogranin-1 (Chromogranin-B) (CgB) (Secretogranin I) (SgI) [Cleaved into: PE-11; GAWK peptide; CCB peptide]	CHGB SCG1	other
+P36222	CH3L1_HUMAN	Chitinase-3-like protein 1 (39 kDa synovial protein) (Cartilage glycoprotein 39) (CGP-39) (GP-39) (hCGP-39) (YKL-40)	CHI3L1	inflammatory response [GO:0006954]
+Q15782	CH3L2_HUMAN	Chitinase-3-like protein 2 (Chondrocyte protein 39) (YKL-39)	CHI3L2	carbohydrate metabolic process [GO:0005975]
+A0A087X0M8	A0A087X0M8_HUMAN	Cell adhesion molecule L1 like	CHL1	cell adhesion [GO:0007155]
+O00533	NCHL1_HUMAN	Neural cell adhesion molecule L1-like protein (Close homolog of L1) [Cleaved into: Processed neural cell adhesion molecule L1-like protein]	CHL1 CALL	cell adhesion [GO:0007155]
+O43529	CHSTA_HUMAN	Carbohydrate sulfotransferase 10 (EC 2.8.2.-) (HNK-1 sulfotransferase) (HNK-1ST) (HNK1ST) (HuHNK-1ST)	CHST10	cell adhesion [GO:0007155]
+Q9Y240	CLC11_HUMAN	C-type lectin domain family 11 member A (C-type lectin superfamily member 3) (Lymphocyte secreted C-type lectin) (Osteolectin) (Stem cell growth factor) (p47)	CLEC11A CLECSF3 LSLCL SCGF	positive regulation of cell population proliferation [GO:0008284]
+P05452	TETN_HUMAN	Tetranectin (TN) (C-type lectin domain family 3 member B) (Plasminogen kringle 4-binding protein)	CLEC3B TNA	ossification [GO:0001503]
+O00299	CLIC1_HUMAN	Chloride intracellular channel protein 1 (Chloride channel ABP) (Glutaredoxin-like oxidoreductase CLIC1) (EC 1.8.-.-) (Glutathione-dependent dehydroascorbate reductase CLIC1) (EC 1.8.5.1) (Nuclear chloride ion channel 27) (NCC27) (Regulatory nuclear chloride ion channel protein) (hRNCC)	CLIC1 G6 NCC27	signal transduction [GO:0007165]
+O75503	CLN5_HUMAN	Bis(monoacylglycero)phosphate synthase CLN5 (BMP synthase CLN5) (EC 2.3.1.-) (Ceroid-lipofuscinosis neuronal protein 5) (Protein CLN5) (Palmitoyl protein thioesterase CLN5) (EC 3.1.2.22) (S-depalmitoylase CLN5) [Cleaved into: Bis(monoacylglycero)phosphate synthase CLN5, secreted form]	CLN5 BMPS	brain development [GO:0007420]
+O94985	CSTN1_HUMAN	Calsyntenin-1 (Alcadein-alpha) (Alc-alpha) (Alzheimer-related cadherin-like protein) (Non-classical cadherin XB31alpha) [Cleaved into: Soluble Alc-alpha (SAlc-alpha); CTF1-alpha (C-terminal fragment 1-alpha)]	CLSTN1 CS1 KIAA0911	cell adhesion [GO:0007155]
+Q9BQT9	CSTN3_HUMAN	Calsyntenin-3 (Alcadein-beta) (Alc-beta)	CLSTN3 CS3 KIAA0726	homophilic cell adhesion via plasma membrane adhesion molecules [GO:0007156]
+P10909	CLUS_HUMAN	Clusterin (Aging-associated gene 4 protein) (Apolipoprotein J) (Apo-J) (Complement cytolysis inhibitor) (CLI) (Complement-associated protein SP-40,40) (Ku70-binding protein 1) (NA1/NA2) (Sulfated glycoprotein 2) (SGP-2) (Testosterone-repressed prostate message 2) (TRPM-2) [Cleaved into: Clusterin beta chain (ApoJalpha) (Complement cytolysis inhibitor a chain) (SP-40,40 beta-chain); Clusterin alpha chain (ApoJbeta) (Complement cytolysis inhibitor b chain) (SP-40,40 alpha-chain)]	CLU APOJ CLI KUB1 AAG4	innate immune response [GO:0045087]
+Q96KN2	CNDP1_HUMAN	Beta-Ala-His dipeptidase (EC 3.4.13.20) (CNDP dipeptidase 1) (Carnosine dipeptidase 1) (Glutamate carboxypeptidase-like protein 2) (Serum carnosinase)	CNDP1 CN1 CPGL2 UNQ1915/PRO4380	proteolysis [GO:0006508]
+P26992	CNTFR_HUMAN	Ciliary neurotrophic factor receptor subunit alpha (CNTF receptor subunit alpha) (CNTFR-alpha)	CNTFR	signal transduction [GO:0007165]
+Q12860	CNTN1_HUMAN	Contactin-1 (Glycoprotein gp135) (Neural cell surface protein F3)	CNTN1	cell adhesion [GO:0007155]
+Q02246	CNTN2_HUMAN	Contactin-2 (Axonal glycoprotein TAG-1) (Axonin-1) (Transient axonal glycoprotein 1) (TAX-1)	CNTN2 AXT TAG1 TAX1	cell adhesion [GO:0007155]
+Q8IWV2	CNTN4_HUMAN	Contactin-4 (Brain-derived immunoglobulin superfamily protein 2) (BIG-2)	CNTN4	homophilic cell adhesion via plasma membrane adhesion molecules [GO:0007156]
+Q9UQ52	CNTN6_HUMAN	Contactin-6 (Neural recognition molecule NB-3) (hNB-3)	CNTN6	cell adhesion [GO:0007155]
+Q9UHC6	CNTP2_HUMAN	Contactin-associated protein-like 2 (Cell recognition molecule Caspr2)	CNTNAP2 CASPR2 KIAA0868	cell adhesion [GO:0007155]
+Q9C0A0	CNTP4_HUMAN	Contactin-associated protein-like 4 (Cell recognition molecule Caspr4)	CNTNAP4 CASPR4 KIAA1763	cell adhesion [GO:0007155]
+P39059	COFA1_HUMAN	Collagen alpha-1(XV) chain [Cleaved into: Restin (Endostatin-XV) (Related to endostatin) (Restin-I); Restin-2 (Restin-II); Restin-3 (Restin-III); Restin-4 (Restin-IV)]	COL15A1	cell adhesion [GO:0007155]
+P39060	COIA1_HUMAN	Collagen alpha-1(XVIII) chain [Cleaved into: Endostatin; Non-collagenous domain 1 (NC1)]	COL18A1	cell adhesion [GO:0007155]
+P02452	CO1A1_HUMAN	Collagen alpha-1(I) chain (Alpha-1 type I collagen)	COL1A1	positive regulation of cell migration [GO:0030335]
+P08123	CO1A2_HUMAN	Collagen alpha-2(I) chain (Alpha-2 type I collagen)	COL1A2	extracellular matrix organization [GO:0030198]
+P02461	CO3A1_HUMAN	Collagen alpha-1(III) chain	COL3A1	cell-matrix adhesion [GO:0007160]
+P08572	CO4A2_HUMAN	Collagen alpha-2(IV) chain [Cleaved into: Canstatin]	COL4A2	angiogenesis [GO:0001525]
+P12109	CO6A1_HUMAN	Collagen alpha-1(VI) chain	COL6A1	cell adhesion [GO:0007155]
+P12110	CO6A2_HUMAN	Collagen alpha-2(VI) chain	COL6A2	cell adhesion [GO:0007155]
+P12111	CO6A3_HUMAN	Collagen alpha-3(VI) chain	COL6A3	cell adhesion [GO:0007155]
+Q5KU26	COL12_HUMAN	Collectin-12 (Collectin placenta protein 1) (CL-P1) (hCL-P1) (Nurse cell scavenger receptor 2) (Scavenger receptor class A member 4) (Scavenger receptor with C-type lectin)	COLEC12 CLP1 NSR2 SCARA4 SRCL	innate immune response [GO:0045087]
+P31146	COR1A_HUMAN	Coronin-1A (Coronin-like protein A) (Clipin-A) (Coronin-like protein p57) (Tryptophan aspartate-containing coat protein) (TACO)	CORO1A CORO1	innate immune response [GO:0045087]
+Q14019	COTL1_HUMAN	Coactosin-like protein	COTL1 CLP	other
+P00450	CERU_HUMAN	Ceruloplasmin (Cuproxidase ceruloplasmin) (EC 1.16.3.4) (Ferroxidase ceruloplasmin) (EC 1.16.3.1) (Glutathione peroxidase ceruloplasmin) (EC 1.11.1.9) (Glutathione-dependent peroxiredoxin ceruloplasmin) (EC 1.11.1.27)	CP	other
+Q96IY4	CBPB2_HUMAN	Carboxypeptidase B2 (EC 3.4.17.20) (Carboxypeptidase U) (CPU) (Plasma carboxypeptidase B) (pCPB) (Thrombin-activable fibrinolysis inhibitor) (TAFI)	CPB2	proteolysis [GO:0006508]
+P16870	CBPE_HUMAN	Carboxypeptidase E (CPE) (EC 3.4.17.10) (Carboxypeptidase H) (CPH) (Enkephalin convertase) (Prohormone-processing carboxypeptidase)	CPE	neuropeptide signaling pathway [GO:0007218]
+P14384	CBPM_HUMAN	Carboxypeptidase M (CPM) (EC 3.4.17.12)	CPM	other
+P15169	CBPN_HUMAN	Carboxypeptidase N catalytic chain (CPN) (EC 3.4.17.3) (Anaphylatoxin inactivator) (Arginine carboxypeptidase) (Carboxypeptidase N polypeptide 1) (Carboxypeptidase N small subunit) (Kininase-1) (Lysine carboxypeptidase) (Plasma carboxypeptidase B) (Serum carboxypeptidase N) (SCPN)	CPN1 ACBP	other
+P22792	CPN2_HUMAN	Carboxypeptidase N subunit 2 (Carboxypeptidase N 83 kDa chain) (Carboxypeptidase N large subunit) (Carboxypeptidase N polypeptide 2) (Carboxypeptidase N regulatory subunit)	CPN2 ACBP	protein stabilization [GO:0050821]
+Q9Y646	CBPQ_HUMAN	Carboxypeptidase Q (EC 3.4.17.-) (Lysosomal dipeptidase) (Plasma glutamate carboxypeptidase)	CPQ LCH1 PGCP	proteolysis [GO:0006508]
+Q9H3G5	CPVL_HUMAN	Probable serine carboxypeptidase CPVL (EC 3.4.16.-) (Carboxypeptidase, vitellogenic-like) (Vitellogenic carboxypeptidase-like protein) (VCP-like protein) (hVLP)	CPVL VLP PSEC0124 UNQ197/PRO223	proteolysis [GO:0006508]
+P02741	CRP_HUMAN	C-reactive protein [Cleaved into: C-reactive protein(1-205)]	CRP PTX1	innate immune response [GO:0045087]
+Q9NQ79	CRAC1_HUMAN	Cartilage acidic protein 1 (68 kDa chondrocyte-expressed protein) (CEP-68) (ASPIC)	CRTAC1 ASPIC1 CEP68	other
+P09603	CSF1_HUMAN	Macrophage colony-stimulating factor 1 (CSF-1) (M-CSF) (MCSF) (Lanimostim) (Proteoglycan macrophage colony-stimulating factor) (PG-M-CSF) [Cleaved into: Processed macrophage colony-stimulating factor 1; Macrophage colony-stimulating factor 1 43 kDa subunit]	CSF1	innate immune response [GO:0045087]
+P07333	CSF1R_HUMAN	Macrophage colony-stimulating factor 1 receptor (CSF-1 receptor) (CSF-1-R) (CSF-1R) (M-CSF-R) (EC 2.7.10.1) (Proto-oncogene c-Fms) (CD antigen CD115)	CSF1R FMS	innate immune response [GO:0045087]
+O95196	CSPG5_HUMAN	Chondroitin sulfate proteoglycan 5 (Acidic leucine-rich EGF-like domain-containing brain protein) (Neuroglycan C)	CSPG5 CALEB NGC	nervous system development [GO:0007399]
+P01034	CYTC_HUMAN	Cystatin-C (Cystatin-3) (Gamma-trace) (Neuroendocrine basic polypeptide) (Post-gamma-globulin)	CST3	other
+Q15828	CYTM_HUMAN	Cystatin-M (Cystatin-6) (Cystatin-E)	CST6	other
+P04080	CYTB_HUMAN	Cystatin-B (CPI-B) (Liver thiol proteinase inhibitor) (Stefin-B)	CSTB CST6 STFB	other
+Q01459	DIAC_HUMAN	Di-N-acetylchitobiase (EC 3.2.1.-)	CTBS CTB	other
+P07858	CATB_HUMAN	Cathepsin B (EC 3.4.22.1) (APP secretase) (APPS) (Cathepsin B1) [Cleaved into: Cathepsin B light chain; Cathepsin B heavy chain]	CTSB CPSB	proteolysis [GO:0006508]
+P53634	CATC_HUMAN	Dipeptidyl peptidase 1 (EC 3.4.14.1) (Cathepsin C) (Cathepsin J) (Dipeptidyl peptidase I) (DPP-I) (DPPI) (Dipeptidyl transferase) [Cleaved into: Dipeptidyl peptidase 1 exclusion domain chain (Dipeptidyl peptidase I exclusion domain chain); Dipeptidyl peptidase 1 heavy chain (Dipeptidyl peptidase I heavy chain); Dipeptidyl peptidase 1 light chain (Dipeptidyl peptidase I light chain)]	CTSC CPPI	immune response [GO:0006955]
+P07339	CATD_HUMAN	Cathepsin D (EC 3.4.23.5) [Cleaved into: Cathepsin D light chain; Cathepsin D heavy chain]	CTSD CPSD	proteolysis [GO:0006508]
+Q9UBX1	CATF_HUMAN	Cathepsin F (CATSF) (EC 3.4.22.41)	CTSF	proteolysis [GO:0006508]
+P09668	CATH_HUMAN	Pro-cathepsin H [Cleaved into: Cathepsin H mini chain; Cathepsin H (EC 3.4.22.16); Cathepsin H heavy chain; Cathepsin H light chain]	CTSH CPSB	immune response [GO:0006955]
+P07711	CATL1_HUMAN	Procathepsin L (EC 3.4.22.15) (Cathepsin L1) (Major excreted protein) (MEP) [Cleaved into: Cathepsin L; Cathepsin L heavy chain; Cathepsin L light chain]	CTSL CTSL1	immune response [GO:0006955]
+P25774	CATS_HUMAN	Cathepsin S (EC 3.4.22.27)	CTSS	immune response [GO:0006955]
+Q9UBR2	CATZ_HUMAN	Cathepsin Z (EC 3.4.18.1) (Cathepsin P) (Cathepsin X)	CTSZ	proteolysis [GO:0006508]
+O60888	CUTA_HUMAN	Protein CutA (Acetylcholinesterase-associated protein) (Brain acetylcholinesterase putative membrane anchor)	CUTA ACHAP C6orf82	other
+P99999	CYC_HUMAN	Cytochrome c	CYCS CYC	other
+Q14118	DAG1_HUMAN	Dystroglycan 1 (Dystroglycan) (Dystrophin-associated glycoprotein 1) [Cleaved into: Alpha-dystroglycan (Alpha-DG); Beta-dystroglycan (Beta-DG)]	DAG1	axon guidance [GO:0007411]
+P09172	DOPO_HUMAN	Dopamine beta-hydroxylase (EC 1.14.17.1) (Dopamine beta-monooxygenase) [Cleaved into: Soluble dopamine beta-hydroxylase]	DBH	locomotory behavior [GO:0007626]
+P07108	ACBP_HUMAN	Acyl-CoA-binding protein (ACBP) (Diazepam-binding inhibitor) (DBI) (Endozepine) (EP)	DBI	other
+P43146	DCC_HUMAN	Netrin receptor DCC (Colorectal cancer suppressor) (Immunoglobulin superfamily DCC subclass member 1) (Tumor suppressor protein DCC)	DCC IGDCC1	axon guidance [GO:0007411]
+P81605	DCD_HUMAN	Dermcidin (EC 3.4.-.-) (Preproteolysin) [Cleaved into: Survival-promoting peptide; DCD-1]	DCD AIDD DSEP	proteolysis [GO:0006508]
+P07585	PGS2_HUMAN	Decorin (Bone proteoglycan II) (PG-S2) (PG40)	DCN SLRR1B	positive regulation of phosphatidylinositol 3-kinase/protein kinase B signal transduction [GO:0051897]
+Q08345	DDR1_HUMAN	Epithelial discoidin domain-containing receptor 1 (Epithelial discoidin domain receptor 1) (EC 2.7.10.1) (CD167 antigen-like family member A) (Cell adhesion kinase) (Discoidin receptor tyrosine kinase) (HGK2) (Mammary carcinoma kinase 10) (MCK-10) (Protein-tyrosine kinase 3A) (Protein-tyrosine kinase RTK-6) (TRK E) (Tyrosine kinase DDR) (Tyrosine-protein kinase CAK) (CD antigen CD167a)	DDR1 CAK EDDR1 NEP NTRK4 PTK3A RTK6 TRKE	cell adhesion [GO:0007155]
+P98153	IDD_HUMAN	Integral membrane protein DGCR2/IDD	DGCR2 IDD KIAA0163	cell adhesion [GO:0007155]
+Q9UBP4	DKK3_HUMAN	Dickkopf-related protein 3 (Dickkopf-3) (Dkk-3) (hDkk-3)	DKK3 REIC UNQ258/PRO295	other
+P42658	DPP6_HUMAN	A-type potassium channel modulatory protein DPP6 (DPPX) (Dipeptidyl aminopeptidase-like protein 6) (Dipeptidyl aminopeptidase-related protein) (Dipeptidyl peptidase 6) (Dipeptidyl peptidase IV-like protein) (Dipeptidyl peptidase VI) (DPP VI)	DPP6	proteolysis [GO:0006508]
+Q9UHL4	DPP2_HUMAN	Dipeptidyl peptidase 2 (EC 3.4.14.2) (Dipeptidyl aminopeptidase II) (Dipeptidyl peptidase 7) (Dipeptidyl peptidase II) (DPP II) (Quiescent cell proline dipeptidase)	DPP7 DPP2 QPP	proteolysis [GO:0006508]
+Q02487	DSC2_HUMAN	Desmocollin-2 (Cadherin family member 2) (Desmocollin-3) (Desmosomal glycoprotein II) (Desmosomal glycoprotein III)	DSC2 CDHF2 DSC3	cell adhesion [GO:0007155]
+Q14574	DSC3_HUMAN	Desmocollin-3 (Cadherin family member 3) (Desmocollin-4) (HT-CP)	DSC3 CDHF3 DSC4	cell adhesion [GO:0007155]
+Q16610	ECM1_HUMAN	Extracellular matrix protein 1 (Secretory component p85)	ECM1	signal transduction [GO:0007165]
+O94769	ECM2_HUMAN	Extracellular matrix protein 2 (Matrix glycoprotein SC1/ECM2)	ECM2	cell-matrix adhesion [GO:0007160]
+Q9H1Z8	AUGN_HUMAN	Augurin (Esophageal cancer-related gene 4 protein) (ECRG4)	ECRG4 C2orf40 UNQ761/PRO1508	central nervous system development [GO:0007417]
+Q12805	FBLN3_HUMAN	EGF-containing fibulin-like extracellular matrix protein 1 (Extracellular protein S1-5) (Fibrillin-like protein) (Fibulin-3) (FIBL-3)	EFEMP1 FBLN3 FBNL	other
+P20827	EFNA1_HUMAN	Ephrin-A1 (EPH-related receptor tyrosine kinase ligand 1) (LERK-1) (Immediate early response protein B61) (Tumor necrosis factor alpha-induced protein 4) (TNF alpha-induced protein 4) [Cleaved into: Ephrin-A1, secreted form]	EFNA1 EPLG1 LERK1 TNFAIP4	axon guidance [GO:0007411]
+P52799	EFNB2_HUMAN	Ephrin-B2 (EPH-related receptor tyrosine kinase ligand 5) (LERK-5) (HTK ligand) (HTK-L)	EFNB2 EPLG5 HTKL LERK5	cell adhesion [GO:0007155]
+P63241	IF5A1_HUMAN	Eukaryotic translation initiation factor 5A-1 (eIF-5A-1) (eIF-5A1) (Eukaryotic initiation factor 5A isoform 1) (eIF-5A) (Rev-binding factor) (eIF-4D)	EIF5A	positive regulation of transcription by RNA polymerase II [GO:0045944]
+Q9GZV4	IF5A2_HUMAN	Eukaryotic translation initiation factor 5A-2 (eIF-5A-2) (eIF-5A2) (Eukaryotic initiation factor 5A isoform 2)	EIF5A2	spermatogenesis [GO:0007283]
+P63241;Q6IS14;Q9GZV4	IF5A1_HUMAN; IF5A1_HUMAN; IF5A1_HUMAN; IF5A1_HUMAN; IF5A1_HUMAN; IF5A1_HUMAN; IF5A1_HUMAN; IF5AL_HUMAN; IF5AL_HUMAN; IF5AL_HUMAN; IF5A2_HUMAN; IF5A2_HUMAN; IF5A2_HUMAN; IF5A2_HUMAN	Eukaryotic translation initiation factor 5A-1 (eIF-5A-1) (eIF-5A1) (Eukaryotic initiation factor 5A isoform 1) (eIF-5A) (Rev-binding factor) (eIF-4D); Eukaryotic translation initiation factor 5A-1 (eIF-5A-1) (eIF-5A1) (Eukaryotic initiation factor 5A isoform 1) (eIF-5A) (Rev-binding factor) (eIF-4D); Eukaryotic translation initiation factor 5A-1 (eIF-5A-1) (eIF-5A1) (Eukaryotic initiation factor 5A isoform 1) (eIF-5A) (Rev-binding factor) (eIF-4D); Eukaryotic translation initiation factor 5A-1 (eIF-5A-1) (eIF-5A1) (Eukaryotic initiation factor 5A isoform 1) (eIF-5A) (Rev-binding factor) (eIF-4D); Eukaryotic translation initiation factor 5A-1 (eIF-5A-1) (eIF-5A1) (Eukaryotic initiation factor 5A isoform 1) (eIF-5A) (Rev-binding factor) (eIF-4D); Eukaryotic translation initiation factor 5A-1 (eIF-5A-1) (eIF-5A1) (Eukaryotic initiation factor 5A isoform 1) (eIF-5A) (Rev-binding factor) (eIF-4D); Eukaryotic translation initiation factor 5A-1 (eIF-5A-1) (eIF-5A1) (Eukaryotic initiation factor 5A isoform 1) (eIF-5A) (Rev-binding factor) (eIF-4D); Eukaryotic translation initiation factor 5A-1-like (eIF-5A-1-like) (eIF-5A1-like) (Eukaryotic initiation factor 5A isoform 1-like); Eukaryotic translation initiation factor 5A-1-like (eIF-5A-1-like) (eIF-5A1-like) (Eukaryotic initiation factor 5A isoform 1-like); Eukaryotic translation initiation factor 5A-1-like (eIF-5A-1-like) (eIF-5A1-like) (Eukaryotic initiation factor 5A isoform 1-like); Eukaryotic translation initiation factor 5A-2 (eIF-5A-2) (eIF-5A2) (Eukaryotic initiation factor 5A isoform 2); Eukaryotic translation initiation factor 5A-2 (eIF-5A-2) (eIF-5A2) (Eukaryotic initiation factor 5A isoform 2); Eukaryotic translation initiation factor 5A-2 (eIF-5A-2) (eIF-5A2) (Eukaryotic initiation factor 5A isoform 2); Eukaryotic translation initiation factor 5A-2 (eIF-5A-2) (eIF-5A2) (Eukaryotic initiation factor 5A isoform 2)	EIF5A; EIF5A; EIF5A; EIF5A; EIF5A; EIF5A; EIF5A; EIF5AL1; EIF5AL1; EIF5AL1; EIF5A2; EIF5A2; EIF5A2; EIF5A2	positive regulation of transcription by RNA polymerase II [GO:0045944]
+Q6IS14	IF5AL_HUMAN	Eukaryotic translation initiation factor 5A-1-like (eIF-5A-1-like) (eIF-5A1-like) (Eukaryotic initiation factor 5A isoform 1-like)	EIF5AL1	other
+O94919	ENDD1_HUMAN	Endonuclease domain-containing 1 protein (EC 3.1.30.-)	ENDOD1 KIAA0830	innate immune response [GO:0045087]
+P06733	ENOA_HUMAN	Alpha-enolase (EC 4.2.1.11) (2-phospho-D-glycerate hydro-lyase) (C-myc promoter-binding protein) (Enolase 1) (MBP-1) (MPB-1) (Non-neural enolase) (NNE) (Phosphopyruvate hydratase) (Plasminogen-binding protein)	ENO1 ENO1L1 MBPB1 MPB1	other
+P09104	ENOG_HUMAN	Gamma-enolase (EC 4.2.1.11) (2-phospho-D-glycerate hydro-lyase) (Enolase 2) (Neural enolase) (Neuron-specific enolase) (NSE)	ENO2	other
+E7EUF1	E7EUF1_HUMAN	Ectonucleotide pyrophosphatase/phosphodiesterase 2	ENPP2	immune response [GO:0006955]
+Q9UJA9	ENPP5_HUMAN	Ectonucleotide pyrophosphatase/phosphodiesterase family member 5 (E-NPP 5) (NPP-5) (EC 3.1.-.-)	ENPP5 UNQ550/PRO1107	other
+Q9UM22	EPDR1_HUMAN	Mammalian ependymin-related protein 1 (MERP-1) (Upregulated in colorectal cancer gene 1 protein)	EPDR1 MERP1 UCC1	cell-matrix adhesion [GO:0007160]
+P54764	EPHA4_HUMAN	Ephrin type-A receptor 4 (EC 2.7.10.1) (EPH-like kinase 8) (EK8) (hEK8) (Tyrosine-protein kinase TYRO1) (Tyrosine-protein kinase receptor SEK)	EPHA4 HEK8 SEK TYRO1	cell adhesion [GO:0007155]
+P54756	EPHA5_HUMAN	Ephrin type-A receptor 5 (EC 2.7.10.1) (Brain-specific kinase) (EPH homology kinase 1) (EHK-1) (EPH-like kinase 7) (EK7) (hEK7)	EPHA5 BSK EHK1 HEK7 TYRO4	axon guidance [GO:0007411]
+Q9UBQ6	EXTL2_HUMAN	Exostosin-like 2 (EC 2.4.1.223) (Alpha-1,4-N-acetylhexosaminyltransferase EXTL2) (Alpha-GalNAcT EXTL2) (EXT-related protein 2) (Glucuronyl-galactosyl-proteoglycan 4-alpha-N-acetylglucosaminyltransferase) [Cleaved into: Processed exostosin-like 2]	EXTL2 EXTR2	other
+P00742	FA10_HUMAN	Coagulation factor X (EC 3.4.21.6) (Stuart factor) (Stuart-Prower factor) [Cleaved into: Factor X light chain; Factor X heavy chain; Activated factor Xa heavy chain]	F10	proteolysis [GO:0006508]
+P00748	FA12_HUMAN	Coagulation factor XII (EC 3.4.21.38) (Hageman factor) (HAF) [Cleaved into: Coagulation factor XIIa heavy chain; Beta-factor XIIa part 1; Coagulation factor XIIa light chain (Beta-factor XIIa part 2)]	F12	innate immune response [GO:0045087]
+P00734	THRB_HUMAN	Prothrombin (EC 3.4.21.5) (Coagulation factor II) [Cleaved into: Activation peptide fragment 1; Activation peptide fragment 2; Thrombin light chain; Thrombin heavy chain]	F2	proteolysis [GO:0006508]
+P12259	FA5_HUMAN	Coagulation factor V (Activated protein C cofactor) (Proaccelerin, labile factor) [Cleaved into: Coagulation factor V heavy chain; Coagulation factor V light chain]	F5	blood coagulation [GO:0007596]
+P00740	FA9_HUMAN	Coagulation factor IX (EC 3.4.21.22) (Christmas factor) (Plasma thromboplastin component) (PTC) [Cleaved into: Coagulation factor IXa light chain; Coagulation factor IXa heavy chain]	F9	proteolysis [GO:0006508]
+Q9BWQ8	LFG2_HUMAN	Protein lifeguard 2 (Fas apoptotic inhibitory molecule 2) (Neural membrane protein 35) (Transmembrane BAX inhibitor motif-containing protein 2)	FAIM2 KIAA0950 LFG LFG2 NMP35 TMBIM2	negative regulation of apoptotic process [GO:0043066]
+Q92520	FAM3C_HUMAN	Protein FAM3C (Interleukin-like EMT inducer)	FAM3C ILEI GS3786	other
+Q9NYQ8	FAT2_HUMAN	Protocadherin Fat 2 (hFat2) (Cadherin family member 8) (Multiple epidermal growth factor-like domains protein 1) (Multiple EGF-like domains protein 1)	FAT2 CDHF8 KIAA0811 MEGF1	homophilic cell adhesion via plasma membrane adhesion molecules [GO:0007156]
+B1AHL2	B1AHL2_HUMAN	Fibulin-1	FBLN1	extracellular matrix organization [GO:0030198]
+P23142	FBLN1_HUMAN	Fibulin-1 (FIBL-1)	FBLN1 PP213	positive regulation of gene expression [GO:0010628]
+P98095	FBLN2_HUMAN	Fibulin-2 (FIBL-2)	FBLN2	other
+Q9UBX5	FBLN5_HUMAN	Fibulin-5 (FIBL-5) (Developmental arteries and neural crest EGF-like protein) (Dance) (Urine p50 protein) (UP50)	FBLN5 DANCE UNQ184/PRO210	cell-matrix adhesion [GO:0007160]
+Q53RD9	FBLN7_HUMAN	Fibulin-7 (FIBL-7)	FBLN7 TM14	cell adhesion [GO:0007155]
+Q9Y6R7	FCGBP_HUMAN	IgGFc-binding protein (Fcgamma-binding protein antigen) (FcgammaBP)	FCGBP	other
+P08637	FCG3A_HUMAN	Low affinity immunoglobulin gamma Fc region receptor III-A (IgG Fc receptor III-A) (CD16-II) (CD16a antigen) (Fc-gamma RIII-alpha) (Fc-gamma RIII) (Fc-gamma RIIIa) (FcRIII) (FcRIIIa) (FcgammaRIIIA) (FcR-10) (IgG Fc receptor III-2) (CD antigen CD16a)	FCGR3A CD16A FCG3 FCGR3 IGFR3	immune response [GO:0006955]
+Q9UGM5	FETUB_HUMAN	Fetuin-B (16G2) (Fetuin-like protein IRL685) (Gugu)	FETUB	other
+P02671	FIBA_HUMAN	Fibrinogen alpha chain [Cleaved into: Fibrinopeptide A; Fibrinogen alpha chain]	FGA	adaptive immune response [GO:0002250]
+P02675	FIBB_HUMAN	Fibrinogen beta chain [Cleaved into: Fibrinopeptide B; Fibrinogen beta chain]	FGB	adaptive immune response [GO:0002250]
+P11362	FGFR1_HUMAN	Fibroblast growth factor receptor 1 (FGFR-1) (EC 2.7.10.1) (Basic fibroblast growth factor receptor 1) (BFGFR) (bFGF-R-1) (Fms-like tyrosine kinase 2) (FLT-2) (N-sam) (Proto-oncogene c-Fgr) (CD antigen CD331)	FGFR1 BFGFR CEK FGFBR FLG FLT2 HBGFR	cell migration [GO:0016477]
+P21802	FGFR2_HUMAN	Fibroblast growth factor receptor 2 (FGFR-2) (EC 2.7.10.1) (K-sam) (KGFR) (Keratinocyte growth factor receptor) (CD antigen CD332)	FGFR2 BEK KGFR KSAM	angiogenesis [GO:0001525]
+P02679	FIBG_HUMAN	Fibrinogen gamma chain	FGG PRO2061	cell-matrix adhesion [GO:0007160]
+Q06828	FMOD_HUMAN	Fibromodulin (FM) (Collagen-binding 59 kDa protein) (Keratan sulfate proteoglycan fibromodulin) (KSPG fibromodulin)	FMOD FM SLRR2E	other
+P02751	FINC_HUMAN	Fibronectin (FN) (Cold-insoluble globulin) (CIG) [Cleaved into: Anastellin; Ugl-Y1; Ugl-Y2; Ugl-Y3]	FN1 FN	cell adhesion [GO:0007155]
+Q9P0K9	FRS1L_HUMAN	DOMON domain-containing protein FRRS1L (Brain protein CG-6) (Ferric-chelate reductase 1-like protein)	FRRS1L C9orf4	other
+Q12841	FSTL1_HUMAN	Follistatin-related protein 1 (Follistatin-like protein 1)	FSTL1 FRP	negative regulation of apoptotic process [GO:0043066]
+Q6MZW2	FSTL4_HUMAN	Follistatin-related protein 4 (Follistatin-like protein 4)	FSTL4 KIAA1061	cell differentiation [GO:0030154]
+P02792	FRIL_HUMAN	Ferritin light chain (Ferritin L subunit)	FTL	other
+P04066	FUCO_HUMAN	Tissue alpha-L-fucosidase (EC 3.2.1.51) (Alpha-L-fucosidase I) (Alpha-L-fucoside fucohydrolase 1) (Alpha-L-fucosidase 1)	FUCA1 Nbla10230	other
+Q9BTY2	FUCO2_HUMAN	Plasma alpha-L-fucosidase (EC 3.2.1.51) (Alpha-L-fucoside fucohydrolase 2) (Alpha-L-fucosidase 2)	FUCA2 PSEC0151 UNQ227/PRO260	other
+Q495W5	FUT11_HUMAN	Alpha-(1,3)-fucosyltransferase 11 (EC 2.4.1.-) (Fucosyltransferase XI) (Fuc-TXI) (FucT-XI) (Galactoside 3-L-fucosyltransferase 11) (Fucosyltransferase 11)	FUT11	other
+Q10471	GALT2_HUMAN	Polypeptide N-acetylgalactosaminyltransferase 2 (EC 2.4.1.41) (Polypeptide GalNAc transferase 2) (GalNAc-T2) (pp-GaNTase 2) (Protein-UDP acetylgalactosaminyltransferase 2) (UDP-GalNAc:polypeptide N-acetylgalactosaminyltransferase 2) [Cleaved into: Polypeptide N-acetylgalactosaminyltransferase 2 soluble form]	GALNT2	other
+H0YAH3	H0YAH3_HUMAN	Polypeptide N-acetylgalactosaminyltransferase (EC 2.4.1.-) (Protein-UDP acetylgalactosaminyltransferase)	GALNT7	other
+Q14697	GANAB_HUMAN	Neutral alpha-glucosidase AB (EC 3.2.1.207) (Alpha-glucosidase 2) (Glucosidase II subunit alpha)	GANAB G2AN KIAA0088	carbohydrate metabolic process [GO:0005975]
+P04406	G3P_HUMAN	Glyceraldehyde-3-phosphate dehydrogenase (GAPDH) (EC 1.2.1.12) (Peptidyl-cysteine S-nitrosylase GAPDH) (EC 2.6.99.-)	GAPDH GAPD CDABP0047 OK/SW-cl.12	protein stabilization [GO:0050821]
+Q14393	GAS6_HUMAN	Growth arrest-specific protein 6 (GAS-6) (AXL receptor tyrosine kinase ligand)	GAS6 AXLLG	signal transduction [GO:0007165]
+P02774	VTDB_HUMAN	Vitamin D-binding protein (DBP) (VDB) (Gc protein-derived macrophage activating factor) (Gc-MAF) (GcMAF) (Gc-globulin) (Group-specific component) (Gc) (Vitamin D-binding protein-macrophage activating factor) (DBP-maf)	GC	other
+Q9Y2T3	GUAD_HUMAN	Guanine deaminase (Guanase) (Guanine aminase) (EC 3.5.4.3) (Guanine aminohydrolase) (GAH) (p51-nedasin)	GDA KIAA1258	nervous system development [GO:0007399]
+P50395	GDIB_HUMAN	Rab GDP dissociation inhibitor beta (Rab GDI beta) (Guanosine diphosphate dissociation inhibitor 2) (GDI-2)	GDI2 RABGDIB	signal transduction [GO:0007165]
+Q92820	GGH_HUMAN	Gamma-glutamyl hydrolase (EC 3.4.19.9) (Conjugase) (GH) (Gamma-Glu-X carboxypeptidase)	GGH	other
+Q6ZMI3	GLDN_HUMAN	Gliomedin [Cleaved into: Gliomedin shedded ectodomain]	GLDN COLM UNQ9339/PRO34011	signal transduction [GO:0007165]
+Q9HC38	GLOD4_HUMAN	Glyoxalase domain-containing protein 4	GLOD4 C17orf25 CGI-150 My027	other
+P17900	SAP3_HUMAN	Ganglioside GM2 activator (Cerebroside sulfate activator protein) (GM2-AP) (Sphingolipid activator protein 3) (SAP-3) [Cleaved into: Ganglioside GM2 activator isoform short]	GM2A	other
+Q9UJJ9	GNPTG_HUMAN	N-acetylglucosamine-1-phosphotransferase subunit gamma (GlcNAc-1-phosphotransferase subunit gamma) (UDP-N-acetylglucosamine-1-phosphotransferase subunit gamma)	GNPTG C16orf27 GNPTAG CAB56184 LP2537	other
+Q8NBJ4	GOLM1_HUMAN	Golgi membrane protein 1 (Golgi membrane protein GP73) (Golgi phosphoprotein 2)	GOLM1 C9orf155 GOLPH2 PSEC0242 UNQ686/PRO1326	other
+P17174	AATC_HUMAN	Aspartate aminotransferase, cytoplasmic (cAspAT) (EC 2.6.1.1) (EC 2.6.1.3) (Cysteine aminotransferase, cytoplasmic) (Cysteine transaminase, cytoplasmic) (cCAT) (Glutamate oxaloacetate transaminase 1) (Transaminase A)	GOT1	other
+P35052	GPC1_HUMAN	Glypican-1 [Cleaved into: Secreted glypican-1]	GPC1	cell migration [GO:0016477]
+P80108	PHLD_HUMAN	Phosphatidylinositol-glycan-specific phospholipase D (PI-G PLD) (EC 3.1.4.50) (Glycoprotein phospholipase D) (Glycosyl-phosphatidylinositol-specific phospholipase D) (GPI-PLD) (GPI-specific phospholipase D)	GPLD1 PIGPLD1	negative regulation of cell population proliferation [GO:0008285]
+O60883	G37L1_HUMAN	G-protein coupled receptor 37-like 1 (Endothelin B receptor-like protein 2) (ETBR-LP-2)	GPR37L1 ETBRLP2	positive regulation of MAPK cascade [GO:0043410]
+P22352	GPX3_HUMAN	Glutathione peroxidase 3 (GPx-3) (GSHPx-3) (EC 1.11.1.9) (Extracellular glutathione peroxidase) (Plasma glutathione peroxidase) (GPx-P) (GSHPx-P)	GPX3 GPXP	other
+P48058	GRIA4_HUMAN	Glutamate receptor 4 (GluR-4) (GluR4) (AMPA-selective glutamate receptor 4) (GluR-D) (Glutamate receptor ionotropic, AMPA 4)	GRIA4 GluA4 GLUR4	other
+P06396	GELS_HUMAN	Gelsolin (AGEL) (Actin-depolymerizing factor) (ADF) (Brevin)	GSN	central nervous system development [GO:0007417]
+P48637	GSHB_HUMAN	Glutathione synthetase (GSH synthetase) (GSH-S) (EC 6.3.2.3) (Glutathione synthase)	GSS	nervous system development [GO:0007399]
+P78417	GSTO1_HUMAN	Glutathione S-transferase omega-1 (GSTO-1) (EC 2.5.1.18) (Glutathione S-transferase omega 1-1) (GSTO 1-1) (Glutathione-dependent dehydroascorbate reductase) (EC 1.8.5.1) (Monomethylarsonic acid reductase) (MMA(V) reductase) (EC 1.20.4.2) (S-(Phenacyl)glutathione reductase) (SPG-R)	GSTO1 GSTTLP28	other
+P09211	GSTP1_HUMAN	Glutathione S-transferase P (EC 2.5.1.18) (GST class-pi) (GSTP1-1)	GSTP1 FAEES3 GST3	central nervous system development [GO:0007417]
+P62805	H4_HUMAN	Histone H4	H4C1 H4/A H4FA HIST1H4A; H4C2 H4/I H4FI HIST1H4B; H4C3 H4/G H4FG HIST1H4C; H4C4 H4/B H4FB HIST1H4D; H4C5 H4/J H4FJ HIST1H4E; H4C6 H4/C H4FC HIST1H4F; H4C8 H4/H H4FH HIST1H4H; H4C9 H4/M H4FM HIST1H4I; H4C11 H4/E H4FE HIST1H4J; H4C12 H4/D H4FD HIST1H4K; H4C13 H4/K H4FK HIST1H4L; H4C14 H4/N H4F2 H4FN HIST2H4 HIST2H4A; H4C15 H4/O H4FO HIST2H4B; H4C16 H4-16 HIST4H4	other
+Q14520	HABP2_HUMAN	Hyaluronan-binding protein 2 (EC 3.4.21.-) (Factor VII-activating protease) (Factor seven-activating protease) (FSAP) (Hepatocyte growth factor activator-like protein) (Plasma hyaluronan-binding protein) [Cleaved into: Hyaluronan-binding protein 2 50 kDa heavy chain; Hyaluronan-binding protein 2 50 kDa heavy chain alternate form; Hyaluronan-binding protein 2 27 kDa light chain; Hyaluronan-binding protein 2 27 kDa light chain alternate form]	HABP2 HGFAL PHBP	cell adhesion [GO:0007155]
+P69905	HBA_HUMAN	Hemoglobin subunit alpha (Alpha-globin) (Hemoglobin alpha chain) [Cleaved into: Hemopressin]	HBA1; HBA2	other
+P68871	HBB_HUMAN	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain) [Cleaved into: LVV-hemorphin-7; Spinorphin]	HBB	other
+P02042	HBD_HUMAN	Hemoglobin subunit delta (Delta-globin) (Hemoglobin delta chain)	HBD	other
+P06865	HEXA_HUMAN	Beta-hexosaminidase subunit alpha (EC 3.2.1.52) (Beta-N-acetylhexosaminidase subunit alpha) (Hexosaminidase subunit A) (N-acetyl-beta-glucosaminidase subunit alpha)	HEXA	skeletal system development [GO:0001501]
+P07686	HEXB_HUMAN	Beta-hexosaminidase subunit beta (EC 3.2.1.52) (Beta-N-acetylhexosaminidase subunit beta) (Hexosaminidase subunit B) (Cervical cancer proto-oncogene 7 protein) (HCC-7) (N-acetyl-beta-glucosaminidase subunit beta) [Cleaved into: Beta-hexosaminidase subunit beta chain B; Beta-hexosaminidase subunit beta chain A]	HEXB HCC7	positive regulation of transcription by RNA polymerase II [GO:0045944]
+Q04756	HGFA_HUMAN	Hepatocyte growth factor activator (HGF activator) (HGFA) (EC 3.4.21.-) [Cleaved into: Hepatocyte growth factor activator short chain; Hepatocyte growth factor activator long chain]	HGFAC	proteolysis [GO:0006508]
+P00738	HPT_HUMAN	Haptoglobin (Zonulin) [Cleaved into: Haptoglobin alpha chain; Haptoglobin beta chain]	HP	acute-phase response [GO:0006953]
+P00739	HPTR_HUMAN	Haptoglobin-related protein	HPR	other
+P02790	HEMO_HUMAN	Hemopexin (Beta-1B-glycoprotein)	HPX	other
+P04196	HRG_HUMAN	Histidine-rich glycoprotein (Histidine-proline-rich glycoprotein) (HPRG)	HRG	angiogenesis [GO:0001525]
+Q8IZP7	H6ST3_HUMAN	Heparan-sulfate 6-O-sulfotransferase 3 (HS6ST-3) (EC 2.8.2.-)	HS6ST3	other
+P14625	ENPL_HUMAN	Endoplasmin (94 kDa glucose-regulated protein) (GRP-94) (Heat shock protein 90 kDa beta member 1) (Heat shock protein family C member 4) (Tumor rejection antigen 1) (gp96 homolog)	HSP90B1 GRP94 HSPC4 TRA1	negative regulation of apoptotic process [GO:0043066]
+P48723	HSP13_HUMAN	Heat shock 70 kDa protein 13 (Heat shock protein family A member 13) (Microsomal stress-70 protein ATPase core) (Stress-70 protein chaperone microsome-associated 60 kDa protein)	HSPA13 STCH	other
+P11021	BIP_HUMAN	Endoplasmic reticulum chaperone BiP (EC 3.6.4.10) (78 kDa glucose-regulated protein) (GRP-78) (Binding-immunoglobulin protein) (BiP) (Heat shock protein 70 family protein 5) (HSP70 family protein 5) (Heat shock protein family A member 5) (Immunoglobulin heavy chain-binding protein)	HSPA5 GRP78	negative regulation of apoptotic process [GO:0043066]
+P11142	HSP7C_HUMAN	Heat shock cognate 71 kDa protein (EC 3.6.4.10) (Heat shock 70 kDa protein 8) (Heat shock protein family A member 8) (Lipopolysaccharide-associated protein 1) (LAP-1) (LPS-associated protein 1)	HSPA8 HSC70 HSP73 HSPA10	protein folding [GO:0006457]
+P98160	PGBM_HUMAN	Basement membrane-specific heparan sulfate proteoglycan core protein (HSPG) (Perlecan) (PLC) [Cleaved into: Endorepellin; LG3 peptide]	HSPG2	inflammatory response [GO:0006954]
+Q92743	HTRA1_HUMAN	Serine protease HTRA1 (EC 3.4.21.-) (High-temperature requirement A serine peptidase 1) (L56) (Serine protease 11)	HTRA1 HTRA PRSS11	proteolysis [GO:0006508]
+Q12794	HYAL1_HUMAN	Hyaluronidase-1 (Hyal-1) (EC 3.2.1.35) (Hyaluronoglucosaminidase-1) (Lung carcinoma protein 1) (LuCa-1)	HYAL1 LUCA1	inflammatory response [GO:0006954]
+Q9Y4L1	HYOU1_HUMAN	Hypoxia up-regulated protein 1 (150 kDa oxygen-regulated protein) (ORP-150) (170 kDa glucose-regulated protein) (GRP-170) (Heat shock protein family H member 4)	HYOU1 GRP170 HSPH4 ORP150	other
+Q9UMF0	ICAM5_HUMAN	Intercellular adhesion molecule 5 (ICAM-5) (Telencephalin)	ICAM5 TLCN TLN	cell adhesion [GO:0007155]
+O75144	ICOSL_HUMAN	ICOS ligand (B7 homolog 2) (B7-H2) (B7-like protein Gl50) (B7-related protein 1) (B7RP-1) (CD antigen CD275)	ICOSLG B7H2 B7RP1 ICOSL KIAA0653	adaptive immune response [GO:0002250]
+P22304	IDS_HUMAN	Iduronate 2-sulfatase (EC 3.1.6.13) (Alpha-L-iduronate sulfate sulfatase) (Idursulfase) [Cleaved into: Iduronate 2-sulfatase 42 kDa chain; Iduronate 2-sulfatase 14 kDa chain]	IDS SIDS	other
+P01344	IGF2_HUMAN	Insulin-like growth factor II (IGF-II) (Somatomedin-A) (T3M-11-derived growth factor) [Cleaved into: Insulin-like growth factor II; Insulin-like growth factor II Ala-25 Del; Preptin]	IGF2 PP1446	positive regulation of cell population proliferation [GO:0008284]
+P35858	ALS_HUMAN	Insulin-like growth factor-binding protein complex acid labile subunit (ALS)	IGFALS ALS	cell adhesion [GO:0007155]
+P18065	IBP2_HUMAN	Insulin-like growth factor-binding protein 2 (IBP-2) (IGF-binding protein 2) (IGFBP-2)	IGFBP2 BP2 IBP2	response to xenobiotic stimulus [GO:0009410]
+P24592	IBP6_HUMAN	Insulin-like growth factor-binding protein 6 (IBP-6) (IGF-binding protein 6) (IGFBP-6)	IGFBP6 IBP6	signal transduction [GO:0007165]
+Q16270	IBP7_HUMAN	Insulin-like growth factor-binding protein 7 (IBP-7) (IGF-binding protein 7) (IGFBP-7) (IGFBP-rP1) (MAC25 protein) (PGI2-stimulating factor) (Prostacyclin-stimulating factor) (Tumor-derived adhesion factor) (TAF)	IGFBP7 MAC25 PSF	cell adhesion [GO:0007155]
+P01876	IGHA1_HUMAN	Immunoglobulin heavy constant alpha 1 (Ig alpha-1 chain C region) (Ig alpha-1 chain C region BUR) (Ig alpha-1 chain C region TRO)	IGHA1	immune response [GO:0006955]
+P01877	IGHA2_HUMAN	Immunoglobulin heavy constant alpha 2 (Ig alpha-2 chain C region) (Ig alpha-2 chain C region BUT) (Ig alpha-2 chain C region LAN)	IGHA2	immune response [GO:0006955]
+P01880	IGHD_HUMAN	Immunoglobulin heavy constant delta (Ig delta chain C region) (Ig delta chain C region NIG-65) (Ig delta chain C region WAH)	IGHD	immune response [GO:0006955]
+P01857	IGHG1_HUMAN	Immunoglobulin heavy constant gamma 1 (Ig gamma-1 chain C region) (Ig gamma-1 chain C region EU) (Ig gamma-1 chain C region KOL) (Ig gamma-1 chain C region NIE)	IGHG1	adaptive immune response [GO:0002250]
+P01859	IGHG2_HUMAN	Immunoglobulin heavy constant gamma 2 (Ig gamma-2 chain C region) (Ig gamma-2 chain C region DOT) (Ig gamma-2 chain C region TIL) (Ig gamma-2 chain C region ZIE)	IGHG2	adaptive immune response [GO:0002250]
+A0A9H3ZR93	A0A9H3ZR93_HUMAN	Immunoglobulin heavy constant gamma 3 (G3m marker)	IGHG3	adaptive immune response [GO:0002250]
+P01861	IGHG4_HUMAN	Immunoglobulin heavy constant gamma 4 (Ig gamma-4 chain C region)	IGHG4	adaptive immune response [GO:0002250]
+P01871	IGHM_HUMAN	Immunoglobulin heavy constant mu (Ig mu chain C region) (Ig mu chain C region BOT) (Ig mu chain C region GAL) (Ig mu chain C region OU)	IGHM	adaptive immune response [GO:0002250]
+A0A0C4DH31	HV118_HUMAN	Immunoglobulin heavy variable 1-18	IGHV1-18	immunoglobulin mediated immune response [GO:0016064]
+P23083	HV102_HUMAN	Immunoglobulin heavy variable 1-2 (Ig heavy chain V-I region ND) (Ig heavy chain V-I region V35)	IGHV1-2	immune response [GO:0006955]
+P01742	HV169_HUMAN	Immunoglobulin heavy variable 1-69 (Ig heavy chain V-I region EU) (Ig heavy chain V-I region SIE) (Ig heavy chain V-I region WOL)	IGHV1-69	immune response [GO:0006955]
+A0A0B4J1V2	HV226_HUMAN	Immunoglobulin heavy variable 2-26	IGHV2-26	immunoglobulin mediated immune response [GO:0016064]
+P01817	HV205_HUMAN	Immunoglobulin heavy variable 2-5 (Ig heavy chain V-II region HE) (Ig heavy chain V-II region MCE)	IGHV2-5	immune response [GO:0006955]
+A0A0C4DH43	HV70D_HUMAN	Immunoglobulin heavy variable 2-70D	IGHV2-70D	immunoglobulin mediated immune response [GO:0016064]
+A0A0B4J1V0	HV315_HUMAN	Immunoglobulin heavy variable 3-15	IGHV3-15	immunoglobulin mediated immune response [GO:0016064]
+A0A0C4DH36	HV338_HUMAN	Probable non-functional immunoglobulin heavy variable 3-38	IGHV3-38	immunoglobulin mediated immune response [GO:0016064]
+A0A0A0MS15	HV349_HUMAN	Immunoglobulin heavy variable 3-49	IGHV3-49	immunoglobulin mediated immune response [GO:0016064]
+A0A0J9YX35	HV64D_HUMAN	Immunoglobulin heavy variable 3-64D	IGHV3-64D	immunoglobulin mediated immune response [GO:0016064]
+P01780	HV307_HUMAN	Immunoglobulin heavy variable 3-7 (Ig heavy chain V-III region GAL) (Ig heavy chain V-III region GAR) (Ig heavy chain V-III region JON)	IGHV3-7	immune response [GO:0006955]
+A0A4W8ZXM2	A0A4W8ZXM2_HUMAN	Immunoglobulin heavy variable 3-72	IGHV3-72	adaptive immune response [GO:0002250]
+A0A0B4J1V6	HV373_HUMAN	Immunoglobulin heavy variable 3-73	IGHV3-73	immunoglobulin mediated immune response [GO:0016064]
+A0A0B4J1X5	HV374_HUMAN	Immunoglobulin heavy variable 3-74	IGHV3-74	immunoglobulin mediated immune response [GO:0016064]
+A0A087WSY4	HV432_HUMAN	Immunoglobulin heavy variable 4-30-2	IGHV4-30-2	immunoglobulin mediated immune response [GO:0016064]
+P06331	HV434_HUMAN	Immunoglobulin heavy variable 4-34 (Ig heavy chain V-II region ARH-77)	IGHV4-34	immune response [GO:0006955]
+P01824	HV439_HUMAN	Immunoglobulin heavy variable 4-39 (Ig heavy chain V-II region WAH)	IGHV4-39	immune response [GO:0006955]
+A0A0C4DH38	HV551_HUMAN	Immunoglobulin heavy variable 5-51	IGHV5-51	immunoglobulin mediated immune response [GO:0016064]
+A0A0B4J1U7	HV601_HUMAN	Immunoglobulin heavy variable 6-1	IGHV6-1	immunoglobulin mediated immune response [GO:0016064]
+P01834	IGKC_HUMAN	Immunoglobulin kappa constant (Ig kappa chain C region) (Ig kappa chain C region AG) (Ig kappa chain C region CUM) (Ig kappa chain C region EU) (Ig kappa chain C region OU) (Ig kappa chain C region ROY) (Ig kappa chain C region TI)	IGKC	immune response [GO:0006955]
+A0A0A0MT89	KJ01_HUMAN	Immunoglobulin kappa joining 1	IGKJ1	adaptive immune response [GO:0002250]
+A0A0A0MT96	A0A0A0MT96_HUMAN	Immunoglobulin kappa joining 3	IGKJ3	other
+A0A0A0MTA3	A0A0A0MTA3_HUMAN	Immunoglobulin kappa joining 5	IGKJ5	other
+A0A0C4DH73	KV112_HUMAN	Immunoglobulin kappa variable 1-12	IGKV1-12	immune response [GO:0006955]
+A0A0C4DH73;P01611	KV112_HUMAN; KV112_HUMAN; KVD12_HUMAN; KVD12_HUMAN	Immunoglobulin kappa variable 1-12; Immunoglobulin kappa variable 1-12; Immunoglobulin kappa variable 1D-12 (Ig kappa chain V-I region Wes); Immunoglobulin kappa variable 1D-12 (Ig kappa chain V-I region Wes)	IGKV1-12; IGKV1-12; IGKV1D-12; IGKV1D-12	immune response [GO:0006955]
+P04430	KV116_HUMAN	Immunoglobulin kappa variable 1-16 (Ig kappa chain V-I region BAN)	IGKV1-16	immune response [GO:0006955]
+P01599	KV117_HUMAN	Immunoglobulin kappa variable 1-17 (Ig kappa chain V-I region Gal) (Ig kappa chain V-I region WEA)	IGKV1-17	immune response [GO:0006955]
+A0A075B6S5	KV127_HUMAN	Immunoglobulin kappa variable 1-27	IGKV1-27	immune response [GO:0006955]
+A0AAG2T928	A0AAG2T928_HUMAN	Immunoglobulin kappa variable 1-33	IGKV1-33	other
+P01597	KV139_HUMAN	Immunoglobulin kappa variable 1-39 (Ig kappa chain V-I region DEE) (Ig kappa chain V-I region Hau) (Ig kappa chain V-I region Mev) (Ig kappa chain V-I region OU) (Ig kappa chain V-I region Walker)	IGKV1-39	immune response [GO:0006955]
+P01597;P04432	KV139_HUMAN; KV139_HUMAN; KVD39_HUMAN; KVD39_HUMAN	Immunoglobulin kappa variable 1-39 (Ig kappa chain V-I region DEE) (Ig kappa chain V-I region Hau) (Ig kappa chain V-I region Mev) (Ig kappa chain V-I region OU) (Ig kappa chain V-I region Walker); Immunoglobulin kappa variable 1-39 (Ig kappa chain V-I region DEE) (Ig kappa chain V-I region Hau) (Ig kappa chain V-I region Mev) (Ig kappa chain V-I region OU) (Ig kappa chain V-I region Walker); Immunoglobulin kappa variable 1D-39 (Ig kappa chain V-I region Daudi); Immunoglobulin kappa variable 1D-39 (Ig kappa chain V-I region Daudi)	IGKV1-39; IGKV1-39; IGKV1D-39; IGKV1D-39	immune response [GO:0006955]
+P01602	KV105_HUMAN	Immunoglobulin kappa variable 1-5 (Ig kappa chain V-I region CAR) (Ig kappa chain V-I region EU) (Ig kappa chain V-I region HK102) (Ig kappa chain V-I region Kue)	IGKV1-5	immune response [GO:0006955]
+A0A0C4DH67	KV108_HUMAN	Immunoglobulin kappa variable 1-8	IGKV1-8	immune response [GO:0006955]
+P01611	KVD12_HUMAN	Immunoglobulin kappa variable 1D-12 (Ig kappa chain V-I region Wes)	IGKV1D-12	immune response [GO:0006955]
+P04432	KVD39_HUMAN	Immunoglobulin kappa variable 1D-39 (Ig kappa chain V-I region Daudi)	IGKV1D-39	immune response [GO:0006955]
+A0A087WSZ0	KVD08_HUMAN	Immunoglobulin kappa variable 1D-8	IGKV1D-8	immune response [GO:0006955]
+A0A0C4DH68	KV224_HUMAN	Immunoglobulin kappa variable 2-24	IGKV2-24	immune response [GO:0006955]
+A0A075B6P5	KV228_HUMAN	Immunoglobulin kappa variable 2-28	IGKV2-28	immune response [GO:0006955]
+A0A075B6P5;P01615	KV228_HUMAN; KV228_HUMAN; KVD28_HUMAN; KVD28_HUMAN	Immunoglobulin kappa variable 2-28; Immunoglobulin kappa variable 2-28; Immunoglobulin kappa variable 2D-28 (Ig kappa chain V-II region FR) (Ig kappa chain V-II region GM607) (Ig kappa chain V-II region MIL) (Ig kappa chain V-II region TEW); Immunoglobulin kappa variable 2D-28 (Ig kappa chain V-II region FR) (Ig kappa chain V-II region GM607) (Ig kappa chain V-II region MIL) (Ig kappa chain V-II region TEW)	IGKV2-28; IGKV2-28; IGKV2D-28; IGKV2D-28	immune response [GO:0006955]
+A0A087WW87	KV240_HUMAN	Immunoglobulin kappa variable 2-40	IGKV2-40	immune response [GO:0006955]
+A0A087WW87;P01614	KV240_HUMAN; KV240_HUMAN; KVD40_HUMAN; KVD40_HUMAN	Immunoglobulin kappa variable 2-40; Immunoglobulin kappa variable 2-40; Immunoglobulin kappa variable 2D-40 (Ig kappa chain V-II region Cum); Immunoglobulin kappa variable 2D-40 (Ig kappa chain V-II region Cum)	IGKV2-40; IGKV2-40; IGKV2D-40; IGKV2D-40	immune response [GO:0006955]
+A0A075B6R9	KVD24_HUMAN	Probable non-functional immunoglobulin kappa variable 2D-24	IGKV2D-24	immune response [GO:0006955]
+A0A075B6R9;A0A0C4DH68	KVD24_HUMAN; KVD24_HUMAN; KV224_HUMAN; KV224_HUMAN	Probable non-functional immunoglobulin kappa variable 2D-24; Probable non-functional immunoglobulin kappa variable 2D-24; Immunoglobulin kappa variable 2-24; Immunoglobulin kappa variable 2-24	IGKV2D-24; IGKV2D-24; IGKV2-24; IGKV2-24	immune response [GO:0006955]
+P01615	KVD28_HUMAN	Immunoglobulin kappa variable 2D-28 (Ig kappa chain V-II region FR) (Ig kappa chain V-II region GM607) (Ig kappa chain V-II region MIL) (Ig kappa chain V-II region TEW)	IGKV2D-28	immune response [GO:0006955]
+A0A075B6S2	KVD29_HUMAN	Immunoglobulin kappa variable 2D-29	IGKV2D-29	immune response [GO:0006955]
+P01614	KVD40_HUMAN	Immunoglobulin kappa variable 2D-40 (Ig kappa chain V-II region Cum)	IGKV2D-40	immune response [GO:0006955]
+P04433	KV311_HUMAN	Immunoglobulin kappa variable 3-11 (Ig kappa chain V-III region VG)	IGKV3-11	immune response [GO:0006955]
+P01619	KV320_HUMAN	Immunoglobulin kappa variable 3-20 (Ig kappa chain V-III region B6) (Ig kappa chain V-III region GOL) (Ig kappa chain V-III region HAH) (Ig kappa chain V-III region HIC) (Ig kappa chain V-III region IARC/BL41) (Ig kappa chain V-III region NG9) (Ig kappa chain V-III region SIE) (Ig kappa chain V-III region Ti) (Ig kappa chain V-III region WOL)	IGKV3-20	immune response [GO:0006955]
+A0A075B6H7	KV37_HUMAN	Probable non-functional immunoglobulin kappa variable 3-7	IGKV3-7	immune response [GO:0006955]
+A0A087WSY6	KVD15_HUMAN	Immunoglobulin kappa variable 3D-15	IGKV3D-15	immune response [GO:0006955]
+A0A0C4DH25	KVD20_HUMAN	Immunoglobulin kappa variable 3D-20	IGKV3D-20	immune response [GO:0006955]
+P06312	KV401_HUMAN	Immunoglobulin kappa variable 4-1 (Ig kappa chain V-IV region B17) (Ig kappa chain V-IV region JI) (Ig kappa chain V-IV region Len) (Ig kappa chain V-IV region STH)	IGKV4-1	immune response [GO:0006955]
+A0A0C4DH24	KV621_HUMAN	Immunoglobulin kappa variable 6-21	IGKV6-21	immune response [GO:0006955]
+P0DOY2	IGLC2_HUMAN	Immunoglobulin lambda constant 2 (Ig lambda chain C region Kern) (Ig lambda chain C region NIG-64) (Ig lambda chain C region SH) (Ig lambda chain C region X) (Ig lambda-2 chain C region)	IGLC2	immunoglobulin mediated immune response [GO:0016064]
+P0DOY2;P0DOY3	IGLC2_HUMAN; IGLC3_HUMAN; IGLC3_HUMAN; IGLC3_HUMAN	Immunoglobulin lambda constant 2 (Ig lambda chain C region Kern) (Ig lambda chain C region NIG-64) (Ig lambda chain C region SH) (Ig lambda chain C region X) (Ig lambda-2 chain C region); Immunoglobulin lambda constant 3 (Ig lambda chain C region DOT) (Ig lambda chain C region NEWM) (Ig lambda-3 chain C regions); Immunoglobulin lambda constant 3 (Ig lambda chain C region DOT) (Ig lambda chain C region NEWM) (Ig lambda-3 chain C regions); Immunoglobulin lambda constant 3 (Ig lambda chain C region DOT) (Ig lambda chain C region NEWM) (Ig lambda-3 chain C regions)	IGLC2; IGLC3; IGLC3; IGLC3	adaptive immune response [GO:0002250]
+P0DOY3	IGLC3_HUMAN	Immunoglobulin lambda constant 3 (Ig lambda chain C region DOT) (Ig lambda chain C region NEWM) (Ig lambda-3 chain C regions)	IGLC3	adaptive immune response [GO:0002250]
+A0M8Q6	IGLC7_HUMAN	Immunoglobulin lambda constant 7 (Ig lambda-7 chain C region)	IGLC7	adaptive immune response [GO:0002250]
+B9A064	IGLL5_HUMAN	Immunoglobulin lambda-like polypeptide 5 (G lambda-1) (Germline immunoglobulin lambda 1)	IGLL5	immunoglobulin mediated immune response [GO:0016064]
+A6NGN9	IGLO5_HUMAN	IgLON family member 5	IGLON5	other
+P01700	LV147_HUMAN	Immunoglobulin lambda variable 1-47 (Ig lambda chain V-I region HA) (Ig lambda chain V-I region WAH)	IGLV1-47	immune response [GO:0006955]
+P01701	LV151_HUMAN	Immunoglobulin lambda variable 1-51 (Ig lambda chain V-I region BL2) (Ig lambda chain V-I region EPS) (Ig lambda chain V-I region NEW) (Ig lambda chain V-I region NIG-64)	IGLV1-51	immune response [GO:0006955]
+A0A075B6J9	LV218_HUMAN	Immunoglobulin lambda variable 2-18	IGLV2-18	immune response [GO:0006955]
+P01709	LV208_HUMAN	Immunoglobulin lambda variable 2-8 (Ig lambda chain V-II region BO) (Ig lambda chain V-II region MGC)	IGLV2-8	immune response [GO:0006955]
+A0A075B6K4	LV310_HUMAN	Immunoglobulin lambda variable 3-10	IGLV3-10	immune response [GO:0006955]
+A0A075B6K0	LV316_HUMAN	Immunoglobulin lambda variable 3-16	IGLV3-16	immune response [GO:0006955]
+P01714	LV319_HUMAN	Immunoglobulin lambda variable 3-19 (Ig lambda chain V-III region SH)	IGLV3-19	immune response [GO:0006955]
+P80748	LV321_HUMAN	Immunoglobulin lambda variable 3-21 (Ig lambda chain V-III region LOI) (Ig lambda chain V-V region DEL) (Ig lambda chain V-VII region MOT)	IGLV3-21	immune response [GO:0006955]
+P01717	LV325_HUMAN	Immunoglobulin lambda variable 3-25 (Ig lambda chain V-IV region Hil)	IGLV3-25	immune response [GO:0006955]
+A0A075B6K5	LV39_HUMAN	Immunoglobulin lambda variable 3-9	IGLV3-9	immune response [GO:0006955]
+A0A0G2JSC0	A0A0G2JSC0_HUMAN	Immunoglobulin lambda variable 5-45	IGLV5-45	other
+A0A075B6I9	LV746_HUMAN	Immunoglobulin lambda variable 7-46	IGLV7-46	immune response [GO:0006955]
+A0A075B6I0	LV861_HUMAN	Immunoglobulin lambda variable 8-61	IGLV8-61	immune response [GO:0006955]
+A0A0B4J1Y8	LV949_HUMAN	Immunoglobulin lambda variable 9-49	IGLV9-49	immune response [GO:0006955]
+Q96ID5	IGS21_HUMAN	Immunoglobulin superfamily member 21 (IgSF21)	IGSF21	homophilic cell adhesion via plasma membrane adhesion molecules [GO:0007156]
+Q969P0	IGSF8_HUMAN	Immunoglobulin superfamily member 8 (IgSF8) (CD81 partner 3) (Glu-Trp-Ile EWI motif-containing protein 2) (EWI-2) (Keratinocytes-associated transmembrane protein 4) (KCT-4) (LIR-D1) (Prostaglandin regulatory-like protein) (PGRL) (CD antigen CD316)	IGSF8 CD81P3 EWI2 KCT4	nervous system development [GO:0007399]
+P40189	IL6RB_HUMAN	Interleukin-6 receptor subunit beta (IL-6 receptor subunit beta) (IL-6R subunit beta) (IL-6R-beta) (IL-6RB) (CDw130) (Interleukin-6 signal transducer) (Membrane glycoprotein 130) (gp130) (Oncostatin-M receptor subunit alpha) (CD antigen CD130)	IL6ST	positive regulation of cell population proliferation [GO:0008284]
+O14498	ISLR_HUMAN	Immunoglobulin superfamily containing leucine-rich repeat protein	ISLR UNQ189/PRO215	cell adhesion [GO:0007155]
+P19827	ITIH1_HUMAN	Inter-alpha-trypsin inhibitor heavy chain H1 (ITI heavy chain H1) (ITI-HC1) (Inter-alpha-inhibitor heavy chain 1) (Inter-alpha-trypsin inhibitor complex component III) (Serum-derived hyaluronan-associated protein) (SHAP)	ITIH1 IGHEP1	other
+P19823	ITIH2_HUMAN	Inter-alpha-trypsin inhibitor heavy chain H2 (ITI heavy chain H2) (ITI-HC2) (Inter-alpha-inhibitor heavy chain 2) (Inter-alpha-trypsin inhibitor complex component II) (Serum-derived hyaluronan-associated protein) (SHAP)	ITIH2 IGHEP2	other
+Q06033	ITIH3_HUMAN	Inter-alpha-trypsin inhibitor heavy chain H3 (ITI heavy chain H3) (ITI-HC3) (Inter-alpha-inhibitor heavy chain 3) (Serum-derived hyaluronan-associated protein) (SHAP)	ITIH3	other
+Q14624	ITIH4_HUMAN	Inter-alpha-trypsin inhibitor heavy chain H4 (ITI heavy chain H4) (ITI-HC4) (Inter-alpha-inhibitor heavy chain 4) (Inter-alpha-trypsin inhibitor family heavy chain-related protein) (IHRP) (Plasma kallikrein sensitive glycoprotein 120) (Gp120) (PK-120) [Cleaved into: 70 kDa inter-alpha-trypsin inhibitor heavy chain H4; 35 kDa inter-alpha-trypsin inhibitor heavy chain H4]	ITIH4 IHRP ITIHL1 PK120 PRO1851	acute-phase response [GO:0006953]
+Q86UX2	ITIH5_HUMAN	Inter-alpha-trypsin inhibitor heavy chain H5 (ITI heavy chain H5) (ITI-HC5) (Inter-alpha-inhibitor heavy chain 5)	ITIH5 KIAA1953 PP14776 UNQ311/PRO354	other
+Q9BX67	JAM3_HUMAN	Junctional adhesion molecule C (JAM-C) (JAM-2) (Junctional adhesion molecule 3) (JAM-3) [Cleaved into: Soluble form of JAM-C (sJAM-C)]	JAM3 UNQ859/PRO1868	adaptive immune response [GO:0002250]
+P01591	IGJ_HUMAN	Immunoglobulin J chain (Joining chain of multimeric IgA and IgM)	JCHAIN IGCJ IGJ	immune response [GO:0006955]
+H0YDE5	H0YDE5_HUMAN	KIAA1549 like	KIAA1549L	other
+P10721	KIT_HUMAN	Mast/stem cell growth factor receptor Kit (SCFR) (EC 2.7.10.1) (Piebald trait protein) (PBT) (Proto-oncogene c-Kit) (Tyrosine-protein kinase Kit) (p145 c-kit) (v-kit Hardy-Zuckerman 4 feline sarcoma viral oncogene homolog) (CD antigen CD117)	KIT SCFR	signal transduction [GO:0007165]
+Q92876	KLK6_HUMAN	Kallikrein-6 (EC 3.4.21.-) (Neurosin) (Protease M) (SP59) (Serine protease 18) (Serine protease 9) (Zyme)	KLK6 PRSS18 PRSS9	central nervous system development [GO:0007417]
+P03952	KLKB1_HUMAN	Plasma kallikrein (EC 3.4.21.34) (Fletcher factor) (Kininogenin) (Plasma prekallikrein) (PKK) [Cleaved into: Plasma kallikrein heavy chain; Plasma kallikrein light chain]	KLKB1 KLK3	proteolysis [GO:0006508]
+P01042	KNG1_HUMAN	Kininogen-1 (Alpha-2-thiol proteinase inhibitor) (Fitzgerald factor) (High molecular weight kininogen) (HMWK) (Williams-Fitzgerald-Flaujeac factor) [Cleaved into: Kininogen-1 heavy chain; T-kinin (Ile-Ser-Bradykinin); Bradykinin (Kallidin I); Lysyl-bradykinin (Kallidin II); Kininogen-1 light chain; Low molecular weight growth-promoting factor]	KNG1 BDK KNG	inflammatory response [GO:0006954]
+P32004	L1CAM_HUMAN	Neural cell adhesion molecule L1 (N-CAM-L1) (NCAM-L1) (CD antigen CD171)	L1CAM CAML1 MIC5	cell adhesion [GO:0007155]
+P24043	LAMA2_HUMAN	Laminin subunit alpha-2 (Laminin M chain) (Laminin-12 subunit alpha) (Laminin-2 subunit alpha) (Laminin-4 subunit alpha) (Merosin heavy chain)	LAMA2 LAMM	cell adhesion [GO:0007155]
+P55268	LAMB2_HUMAN	Laminin subunit beta-2 (Laminin B1s chain) (Laminin-11 subunit beta) (Laminin-14 subunit beta) (Laminin-15 subunit beta) (Laminin-3 subunit beta) (Laminin-4 subunit beta) (Laminin-7 subunit beta) (Laminin-9 subunit beta) (S-laminin subunit beta) (S-LAM beta)	LAMB2 LAMS	cell adhesion [GO:0007155]
+P11047	LAMC1_HUMAN	Laminin subunit gamma-1 (Laminin B2 chain) (Laminin-1 subunit gamma) (Laminin-10 subunit gamma) (Laminin-11 subunit gamma) (Laminin-2 subunit gamma) (Laminin-3 subunit gamma) (Laminin-4 subunit gamma) (Laminin-6 subunit gamma) (Laminin-7 subunit gamma) (Laminin-8 subunit gamma) (Laminin-9 subunit gamma) (S-laminin subunit gamma) (S-LAM gamma)	LAMC1 LAMB2	cell adhesion [GO:0007155]
+P11279	LAMP1_HUMAN	Lysosome-associated membrane glycoprotein 1 (LAMP-1) (Lysosome-associated membrane protein 1) (CD107 antigen-like family member A) (CD antigen CD107a)	LAMP1	protein stabilization [GO:0050821]
+P13473	LAMP2_HUMAN	Lysosome-associated membrane glycoprotein 2 (LAMP-2) (Lysosome-associated membrane protein 2) (CD107 antigen-like family member B) (LGP-96) (CD antigen CD107b)	LAMP2	protein stabilization [GO:0050821]
+P18428	LBP_HUMAN	Lipopolysaccharide-binding protein (LBP)	LBP	innate immune response [GO:0045087]
+P04180	LCAT_HUMAN	Phosphatidylcholine-sterol acyltransferase (EC 2.3.1.43) (1-alkyl-2-acetylglycerophosphocholine esterase) (EC 3.1.1.47) (Lecithin-cholesterol acyltransferase) (Phospholipid-cholesterol acyltransferase) (Platelet-activating factor acetylhydrolase) (PAF acetylhydrolase)	LCAT	cholesterol metabolic process [GO:0008203]
+P80188	NGAL_HUMAN	Neutrophil gelatinase-associated lipocalin (NGAL) (25 kDa alpha-2-microglobulin-related subunit of MMP-9) (Lipocalin-2) (Oncogene 24p3) (Siderocalin) (p25)	LCN2 HNL NGAL	innate immune response [GO:0045087]
+P13796	PLSL_HUMAN	Plastin-2 (L-plastin) (LC64P) (Lymphocyte cytosolic protein 1) (LCP-1)	LCP1 PLS2	cell migration [GO:0016477]
+P00338	LDHA_HUMAN	L-lactate dehydrogenase A chain (LDH-A) (EC 1.1.1.27) (Cell proliferation-inducing gene 19 protein) (LDH muscle subunit) (LDH-M) (Renal carcinoma antigen NY-REN-59)	LDHA PIG19	other
+P07195	LDHB_HUMAN	L-lactate dehydrogenase B chain (LDH-B) (EC 1.1.1.27) (LDH heart subunit) (LDH-H) (Renal carcinoma antigen NY-REN-46)	LDHB	other
+P09382	LEG1_HUMAN	Galectin-1 (Gal-1) (14 kDa laminin-binding protein) (HLBP14) (14 kDa lectin) (Beta-galactoside-binding lectin L-14-I) (Galaptin) (HBL) (HPL) (Lactose-binding lectin 1) (Lectin galactoside-binding soluble 1) (Putative MAPK-activating protein PM12) (S-Lac lectin 1)	LGALS1	cell-cell adhesion [GO:0098609]
+Q08380	LG3BP_HUMAN	Galectin-3-binding protein (Basement membrane autoantigen p105) (Lectin galactoside-binding soluble 3-binding protein) (Mac-2-binding protein) (MAC2BP) (Mac-2 BP) (Tumor-associated antigen 90K)	LGALS3BP M2BP	cell adhesion [GO:0007155]
+Q96FE5	LIGO1_HUMAN	Leucine-rich repeat and immunoglobulin-like domain-containing nogo receptor-interacting protein 1 (Leucine-rich repeat and immunoglobulin domain-containing protein 1) (Leucine-rich repeat neuronal protein 1) (Leucine-rich repeat neuronal protein 6A)	LINGO1 LERN1 LRRN6A UNQ201/PRO227	other
+Q12907	LMAN2_HUMAN	Vesicular integral-membrane protein VIP36 (Glycoprotein GP36b) (Lectin mannose-binding 2) (Vesicular integral-membrane protein 36) (VIP36)	LMAN2 C5orf8	other
+P02750	A2GL_HUMAN	Leucine-rich alpha-2-glycoprotein (LRG)	LRG1 LRG	other
+Q07954	LRP1_HUMAN	Prolow-density lipoprotein receptor-related protein 1 (LRP-1) (Alpha-2-macroglobulin receptor) (A2MR) (Apolipoprotein E receptor) (APOER) (CD antigen CD91) [Cleaved into: Low-density lipoprotein receptor-related protein 1 85 kDa subunit (LRP-85); Low-density lipoprotein receptor-related protein 1 515 kDa subunit (LRP-515); Low-density lipoprotein receptor-related protein 1 intracellular domain (LRPICD)]	LRP1 A2MR APR	lipid metabolic process [GO:0006629]
+Q9NT99	LRC4B_HUMAN	Leucine-rich repeat-containing protein 4B (Netrin-G3 ligand) (NGL-3)	LRRC4B LRIG4	positive regulation of synapse assembly [GO:0051965]
+Q13449	LSAMP_HUMAN	Limbic system-associated membrane protein (LSAMP) (IgLON family member 3)	LSAMP IGLON3 LAMP	cell adhesion [GO:0007155]
+Q86X29	LSR_HUMAN	Lipolysis-stimulated lipoprotein receptor (Angulin-1)	LSR ILDR3 LISCH	other
+P51884	LUM_HUMAN	Lumican (Keratan sulfate proteoglycan lumican) (KSPG lumican)	LUM LDC SLRR2D	positive regulation of transcription by RNA polymerase II [GO:0045944]
+P0DP58	LYNX1_HUMAN	Ly-6/neurotoxin-like protein 1 (Endogenous prototoxin LYNX1) (Testicular tissue protein Li 112)	LYNX1	other
+Q9Y5Y7	LYVE1_HUMAN	Lymphatic vessel endothelial hyaluronic acid receptor 1 (LYVE-1) (Cell surface retention sequence-binding protein 1) (CRSBP-1) (Extracellular link domain-containing protein 1) (Hyaluronic acid receptor)	LYVE1 CRSBP1 HAR XLKD1 UNQ230/PRO263	cell-matrix adhesion [GO:0007160]
+P61626	LYSC_HUMAN	Lysozyme C (EC 3.2.1.17) (1,4-beta-N-acetylmuramidase C)	LYZ LZM	inflammatory response [GO:0006954]
+P20916	MAG_HUMAN	Myelin-associated glycoprotein (Siglec-4a)	MAG GMA	cell adhesion [GO:0007155]
+P33908	MA1A1_HUMAN	Mannosyl-oligosaccharide 1,2-alpha-mannosidase IA (EC 3.2.1.113) (Man(9)-alpha-mannosidase) (Man9-mannosidase) (Mannosidase alpha class 1A member 1) (Processing alpha-1,2-mannosidase IA) (Alpha-1,2-mannosidase IA)	MAN1A1	carbohydrate metabolic process [GO:0005975]
+Q9NR34	MA1C1_HUMAN	Mannosyl-oligosaccharide 1,2-alpha-mannosidase IC (EC 3.2.1.113) (HMIC) (Mannosidase alpha class 1C member 1) (Processing alpha-1,2-mannosidase IC) (Alpha-1,2-mannosidase IC)	MAN1C1 MAN1A3 MAN1C	carbohydrate metabolic process [GO:0005975]
+P49641	MA2A2_HUMAN	Alpha-mannosidase 2x (EC 3.2.1.114) (Alpha-mannosidase IIx) (Man IIx) (Mannosidase alpha class 2A member 2) (Mannosyl-oligosaccharide 1,3-1,6-alpha-mannosidase)	MAN2A2 MANA2X	other
+O00462	MANBA_HUMAN	Beta-mannosidase (EC 3.2.1.25) (Lysosomal beta A mannosidase) (Mannanase) (Mannase)	MANBA MANB1	other
+Q9H8J5	MANS1_HUMAN	MANSC domain-containing protein 1 (Loss of heterozygosity 12 chromosomal region 3 protein)	MANSC1 LOH12CR3 UNQ316/PRO361	other
+P29966	MARCS_HUMAN	Myristoylated alanine-rich C-kinase substrate (MARCKS) (Protein kinase C substrate, 80 kDa protein, light chain) (80K-L protein) (PKCSL)	MARCKS MACS PRKCSL	central nervous system development [GO:0007417]
+P43121	MUC18_HUMAN	Cell surface glycoprotein MUC18 (Cell surface glycoprotein P1H12) (Melanoma cell adhesion molecule) (Melanoma-associated antigen A32) (Melanoma-associated antigen MUC18) (S-endo 1 endothelial-associated antigen) (CD antigen CD146)	MCAM MUC18	cell adhesion [GO:0007155]
+P40925	MDHC_HUMAN	Malate dehydrogenase, cytoplasmic (EC 1.1.1.37) (Aromatic alpha-keto acid reductase) (KAR) (EC 1.1.1.96) (Cytosolic malate dehydrogenase)	MDH1 MDHA	other
+Q7Z7M0	MEGF8_HUMAN	Multiple epidermal growth factor-like domains protein 8 (Multiple EGF-like domains protein 8) (Epidermal growth factor-like protein 4) (EGF-like protein 4)	MEGF8 C19orf49 EGFL4 KIAA0817	other
+P26572	MGAT1_HUMAN	Alpha-1,3-mannosyl-glycoprotein 2-beta-N-acetylglucosaminyltransferase (EC 2.4.1.101) (N-glycosyl-oligosaccharide-glycoprotein N-acetylglucosaminyltransferase I) (GNT-I) (GlcNAc-T I)	MGAT1 GGNT1 GLCT1 GLYT1 MGAT	other
+Q16674	MIA_HUMAN	Melanoma-derived growth regulatory protein (Melanoma inhibitory activity protein)	MIA	extracellular matrix organization [GO:0030198]
+Q5JRA6	TGO1_HUMAN	Transport and Golgi organization protein 1 homolog (TANGO1) (C219-reactive peptide) (D320) (Melanoma inhibitory activity protein 3)	MIA3 KIAA0268 TANGO UNQ6077/PRO20088	negative regulation of cell adhesion [GO:0007162]
+Q9UNW1	MINP1_HUMAN	Multiple inositol polyphosphate phosphatase 1 (EC 3.1.3.62) (2,3-bisphosphoglycerate 3-phosphatase) (2,3-BPG phosphatase) (EC 3.1.3.80)	MINPP1 MIPP UNQ900/PRO1917	ossification [GO:0001503]
+Q14165	MLEC_HUMAN	Malectin	MLEC KIAA0152	other
+P08253	MMP2_HUMAN	72 kDa type IV collagenase (EC 3.4.24.24) (72 kDa gelatinase) (Gelatinase A) (Matrix metalloproteinase-2) (MMP-2) (TBE-1) [Cleaved into: PEX]	MMP2 CLG4A	proteolysis [GO:0006508]
+Q16653	MOG_HUMAN	Myelin-oligodendrocyte glycoprotein	MOG	cell adhesion [GO:0007155]
+P22897	MRC1_HUMAN	Macrophage mannose receptor 1 (MMR) (C-type lectin domain family 13 member D) (C-type lectin domain family 13 member D-like) (Human mannose receptor) (hMR) (Macrophage mannose receptor 1-like protein 1) (CD antigen CD206)	MRC1 CLEC13D CLEC13DL MRC1L1	other
+Q9UBG0	MRC2_HUMAN	C-type mannose receptor 2 (C-type lectin domain family 13 member E) (Endocytic receptor 180) (Macrophage mannose receptor 2) (Urokinase-type plasminogen activator receptor-associated protein) (UPAR-associated protein) (Urokinase receptor-associated protein) (CD antigen CD280)	MRC2 CLEC13E ENDO180 KIAA0709 UPARAP	other
+P26038	MOES_HUMAN	Moesin (Membrane-organizing extension spike protein)	MSN	positive regulation of gene expression [GO:0010628]
+P26927	HGFL_HUMAN	Hepatocyte growth factor-like protein (Macrophage stimulatory protein) (Macrophage-stimulating protein) (MSP) [Cleaved into: Hepatocyte growth factor-like protein alpha chain; Hepatocyte growth factor-like protein beta chain]	MST1 D3F15S2 DNF15S2 HGFL	proteolysis [GO:0006508]
+P54802	ANAG_HUMAN	Alpha-N-acetylglucosaminidase (EC 3.2.1.50) (N-acetyl-alpha-glucosaminidase) (NAG) [Cleaved into: Alpha-N-acetylglucosaminidase 82 kDa form; Alpha-N-acetylglucosaminidase 77 kDa form]	NAGLU UFHSD1	nervous system development [GO:0007399]
+H7BYX6	H7BYX6_HUMAN	Neural cell adhesion molecule 1	NCAM1	cell adhesion [GO:0007155]
+P13591	NCAM1_HUMAN	Neural cell adhesion molecule 1 (N-CAM-1) (NCAM-1) (CD antigen CD56)	NCAM1 NCAM	cell adhesion [GO:0007155]
+O15394	NCAM2_HUMAN	Neural cell adhesion molecule 2 (N-CAM-2) (NCAM-2)	NCAM2 NCAM21	other
+O14594	NCAN_HUMAN	Neurocan core protein (Chondroitin sulfate proteoglycan 3)	NCAN CSPG3 NEUR	cell adhesion [GO:0007155]
+Q92542	NICA_HUMAN	Nicastrin	NCSTN KIAA0253 UNQ1874/PRO4317	proteolysis [GO:0006508]
+Q9UN36	NDRG2_HUMAN	Protein NDRG2 (N-myc downstream-regulated gene 2 protein) (Protein Syld709613)	NDRG2 KIAA1248 SYLD	signal transduction [GO:0007165]
+Q15223	NECT1_HUMAN	Nectin-1 (Herpes virus entry mediator C) (Herpesvirus entry mediator C) (HveC) (Herpesvirus Ig-like receptor) (HIgR) (Nectin cell adhesion molecule 1) (Poliovirus receptor-related protein 1) (CD antigen CD111)	NECTIN1 HVEC PRR1 PVRL1	cell adhesion [GO:0007155]
+Q7Z3B1	NEGR1_HUMAN	Neuronal growth regulator 1 (IgLON family member 4)	NEGR1 IGLON4 UNQ2433/PRO4993	cell-cell adhesion [GO:0098609]
+Q99435	NELL2_HUMAN	Protein kinase C-binding protein NELL2 (NEL-like protein 2) (Nel-related protein 2)	NELL2 NRP2	other
+Q92859	NEO1_HUMAN	Neogenin (Immunoglobulin superfamily DCC subclass member 2)	NEO1 IGDCC2 NGN	cell adhesion [GO:0007155]
+X6RKN2	X6RKN2_HUMAN	Neurofascin	NFASC	cell adhesion [GO:0007155]
+P14543	NID1_HUMAN	Nidogen-1 (NID-1) (Entactin)	NID1 NID	cell-matrix adhesion [GO:0007160]
+Q14112	NID2_HUMAN	Nidogen-2 (NID-2) (Osteonidogen)	NID2	cell adhesion [GO:0007155]
+Q8NFZ4	NLGN2_HUMAN	Neuroligin-2	NLGN2 KIAA1366	positive regulation of cell population proliferation [GO:0008284]
+P61916	NPC2_HUMAN	NPC intracellular cholesterol transporter 2 (Epididymal secretory protein E1) (Human epididymis-specific protein 1) (He1) (Niemann-Pick disease type C2 protein)	NPC2 HE1	gene expression [GO:0010467]
+Q5SPY9	Q5SPY9_HUMAN	Neural proliferation, differentiation and control 1	NPDC1	other
+P23582	ANFC_HUMAN	C-type natriuretic peptide [Cleaved into: CNP-22; CNP-29; CNP-53]	NPPC CNP2	angiogenesis [GO:0001525]
+Q15818	NPTX1_HUMAN	Neuronal pentraxin-1 (NP1) (Neuronal pentraxin I) (NP-I)	NPTX1	central nervous system development [GO:0007417]
+P47972	NPTX2_HUMAN	Neuronal pentraxin-2 (NP2) (Neuronal pentraxin II) (NP-II)	NPTX2	other
+O95502	NPTXR_HUMAN	Neuronal pentraxin receptor	NPTXR	other
+Q92823	NRCAM_HUMAN	Neuronal cell adhesion molecule (Nr-CAM) (Neuronal surface protein Bravo) (hBravo) (NgCAM-related cell adhesion molecule) (Ng-CAM-related)	NRCAM KIAA0343	axon guidance [GO:0007411]
+Q9NPD7	NRN1_HUMAN	Neuritin	NRN1 NRN	other
+O14786	NRP1_HUMAN	Neuropilin-1 (Vascular endothelial cell growth factor 165 receptor) (CD antigen CD304)	NRP1 NRP VEGF165R	signal transduction [GO:0007165]
+O60462	NRP2_HUMAN	Neuropilin-2 (Vascular endothelial cell growth factor 165 receptor 2)	NRP2 VEGF165R2	cell adhesion [GO:0007155]
+E7ERL8	E7ERL8_HUMAN	Neurexin-1 (Neurexin I-alpha) (Neurexin-1-alpha)	NRXN1	positive regulation of synapse assembly [GO:0051965]
+A0A0R4J2G7;A0A1D5RMU6;E7ERL8	A0A0R4J2G7_HUMAN; A0A1D5RMU6_HUMAN; E7ERL8_HUMAN; E7ERL8_HUMAN; E7ERL8_HUMAN; E7ERL8_HUMAN; E7ERL8_HUMAN; E7ERL8_HUMAN; E7ERL8_HUMAN; E7ERL8_HUMAN; E7ERL8_HUMAN; E7ERL8_HUMAN; E7ERL8_HUMAN; E7ERL8_HUMAN; E7ERL8_HUMAN; E7ERL8_HUMAN; E7ERL8_HUMAN; E7ERL8_HUMAN; E7ERL8_HUMAN; E7ERL8_HUMAN; E7ERL8_HUMAN	Neurexin-1 (Neurexin I-alpha) (Neurexin-1-alpha); Neurexin-1 (Neurexin I-alpha) (Neurexin-1-alpha); Neurexin-1 (Neurexin I-alpha) (Neurexin-1-alpha); Neurexin-1 (Neurexin I-alpha) (Neurexin-1-alpha); Neurexin-1 (Neurexin I-alpha) (Neurexin-1-alpha); Neurexin-1 (Neurexin I-alpha) (Neurexin-1-alpha); Neurexin-1 (Neurexin I-alpha) (Neurexin-1-alpha); Neurexin-1 (Neurexin I-alpha) (Neurexin-1-alpha); Neurexin-1 (Neurexin I-alpha) (Neurexin-1-alpha); Neurexin-1 (Neurexin I-alpha) (Neurexin-1-alpha); Neurexin-1 (Neurexin I-alpha) (Neurexin-1-alpha); Neurexin-1 (Neurexin I-alpha) (Neurexin-1-alpha); Neurexin-1 (Neurexin I-alpha) (Neurexin-1-alpha); Neurexin-1 (Neurexin I-alpha) (Neurexin-1-alpha); Neurexin-1 (Neurexin I-alpha) (Neurexin-1-alpha); Neurexin-1 (Neurexin I-alpha) (Neurexin-1-alpha); Neurexin-1 (Neurexin I-alpha) (Neurexin-1-alpha); Neurexin-1 (Neurexin I-alpha) (Neurexin-1-alpha); Neurexin-1 (Neurexin I-alpha) (Neurexin-1-alpha); Neurexin-1 (Neurexin I-alpha) (Neurexin-1-alpha); Neurexin-1 (Neurexin I-alpha) (Neurexin-1-alpha)	NRXN1; NRXN1; NRXN1; NRXN1; NRXN1; NRXN1; NRXN1; NRXN1; NRXN1; NRXN1; NRXN1; NRXN1; NRXN1; NRXN1; NRXN1; NRXN1; NRXN1; NRXN1; NRXN1; NRXN1; NRXN1	positive regulation of synapse assembly [GO:0051965]
+Q9P2S2	NRX2A_HUMAN	Neurexin-2 (Neurexin II-alpha) (Neurexin-2-alpha)	NRXN2 KIAA0921	signal transduction [GO:0007165]
+Q9Y4C0	NRX3A_HUMAN	Neurexin-3 (Neurexin III-alpha) (Neurexin-3-alpha)	NRXN3 C14orf60 KIAA0743	axon guidance [GO:0007411]
+P42857	NSG1_HUMAN	Neuronal vesicle trafficking-associated protein 1 (Neuron-enriched endosomal protein of 21 kDa) (Neuron-specific protein family member 1)	NSG1 D4S234 NEEP21	apoptotic process [GO:0006915]
+B7Z1Z5	B7Z1Z5_HUMAN	Neurotrimin	NTM	other
+Q02818	NUCB1_HUMAN	Nucleobindin-1 (CALNUC)	NUCB1 NUC	other
+Q86UD1	OAF_HUMAN	Out at first protein homolog (HCV NS5A-transactivated protein 13 target protein 2)	OAF NS5ATP13TP2	other
+P20774	MIME_HUMAN	Mimecan (Osteoglycin) (Osteoinductive factor) (OIF)	OGN OIF SLRR3A	other
+Q9NRN5	OLFL3_HUMAN	Olfactomedin-like protein 3 (HNOEL-iso) (hOLF44)	OLFML3 PSEC0035 PSEC0173 PSEC0244 UNQ663/PRO1294	signal transduction [GO:0007165]
+Q99983	OMD_HUMAN	Osteomodulin (Keratan sulfate proteoglycan osteomodulin) (KSPG osteomodulin) (Osteoadherin) (OSAD)	OMD SLRR2C UNQ190/PRO216	cell adhesion [GO:0007155]
+P23515	OMGP_HUMAN	Oligodendrocyte-myelin glycoprotein	OMG OMGP	cell adhesion [GO:0007155]
+Q14982	OPCM_HUMAN	Opioid-binding protein/cell adhesion molecule (OBCAM) (OPCML) (Opioid-binding cell adhesion molecule) (IgLON family member 1)	OPCML IGLON1 OBCAM	cell adhesion [GO:0007155]
+P02763	A1AG1_HUMAN	Alpha-1-acid glycoprotein 1 (AGP 1) (Orosomucoid-1) (OMD 1)	ORM1 AGP1	inflammatory response [GO:0006954]
+P19652	A1AG2_HUMAN	Alpha-1-acid glycoprotein 2 (AGP 2) (Orosomucoid-2) (OMD 2)	ORM2 AGP2	acute-phase response [GO:0006953]
+Q8IYS5	OSCAR_HUMAN	Osteoclast-associated immunoglobulin-like receptor (Osteoclast-associated receptor) (hOSCAR) (Polymeric immunoglobulin receptor 3) (PIgR-3) (PIgR3) (Poly-Ig receptor 3)	OSCAR	other
+P07237	PDIA1_HUMAN	Protein disulfide-isomerase (PDI) (EC 5.3.4.1) (Cellular thyroid hormone-binding protein) (Prolyl 4-hydroxylase subunit beta) (p55)	P4HB ERBA2L PDI PDIA1 PO4DB	protein folding [GO:0006457]
+P19021	AMD_HUMAN	Peptidyl-glycine alpha-amidating monooxygenase (PAM) [Includes: Peptidylglycine alpha-hydroxylating monooxygenase (PHM) (EC 1.14.17.3); Peptidyl-alpha-hydroxyglycine alpha-amidating lyase (EC 4.3.2.5) (Peptidylamidoglycolate lyase) (PAL)]	PAM	other
+O95428	PPN_HUMAN	Papilin	PAPLN UNQ2420/PRO4977	extracellular matrix organization [GO:0030198]
+Q08174	PCDH1_HUMAN	Protocadherin-1 (Cadherin-like protein 1) (Protocadherin-42) (PC42)	PCDH1	cell adhesion [GO:0007155]
+Q9P2E7	PCD10_HUMAN	Protocadherin-10	PCDH10 KIAA1400	cell adhesion [GO:0007155]
+O14917	PCD17_HUMAN	Protocadherin-17 (Protocadherin-68)	PCDH17 PCDH68 PCH68	cell adhesion [GO:0007155]
+O60245	PCDH7_HUMAN	Protocadherin-7 (Brain-heart protocadherin) (BH-Pcdh)	PCDH7 BHPCDH	cell adhesion [GO:0007155]
+Q9HC56	PCDH9_HUMAN	Protocadherin-9	PCDH9	cell adhesion [GO:0007155]
+Q9Y5I4	PCDC2_HUMAN	Protocadherin alpha-C2 (PCDH-alpha-C2)	PCDHAC2	cell adhesion [GO:0007155]
+P22061	PIMT_HUMAN	Protein-L-isoaspartate(D-aspartate) O-methyltransferase (PIMT) (EC 2.1.1.77) (L-isoaspartyl protein carboxyl methyltransferase) (Protein L-isoaspartyl/D-aspartyl methyltransferase) (Protein-beta-aspartate methyltransferase)	PCMT1	other
+Q15113	PCOC1_HUMAN	Procollagen C-endopeptidase enhancer 1 (Procollagen COOH-terminal proteinase enhancer 1) (PCPE-1) (Procollagen C-proteinase enhancer 1) (Type 1 procollagen C-proteinase enhancer protein) (Type I procollagen COOH-terminal proteinase enhancer)	PCOLCE PCPE1	proteolysis [GO:0006508]
+Q9UHG2	PCS1N_HUMAN	ProSAAS (Proprotein convertase subtilisin/kexin type 1 inhibitor) (Proprotein convertase 1 inhibitor) (pro-SAAS) [Cleaved into: KEP; Big SAAS (b-SAAS); Little SAAS (l-SAAS) (N-proSAAS); Big PEN-LEN (b-PEN-LEN) (SAAS CT(1-49)); PEN; Little LEN (l-LEN); Big LEN (b-LEN) (SAAS CT(25-40))]	PCSK1N	neuropeptide signaling pathway [GO:0007218]
+Q8NBP7	PCSK9_HUMAN	Proprotein convertase subtilisin/kexin type 9 (EC 3.4.21.-) (Neural apoptosis-regulated convertase 1) (NARC-1) (Proprotein convertase 9) (PC9) (Subtilisin/kexin-like protease PC9)	PCSK9 NARC1 PSEC0052	apoptotic process [GO:0006915]
+P01127	PDGFB_HUMAN	Platelet-derived growth factor subunit B (PDGF subunit B) (PDGF-2) (Platelet-derived growth factor B chain) (Platelet-derived growth factor beta polypeptide) (Proto-oncogene c-Sis) (Becaplermin)	PDGFB PDGF2 SIS	positive regulation of gene expression [GO:0010628]
+P30101	PDIA3_HUMAN	Protein disulfide-isomerase A3 (EC 5.3.4.1) (58 kDa glucose-regulated protein) (58 kDa microsomal protein) (p58) (Disulfide isomerase ER-60) (Endoplasmic reticulum resident protein 57) (ER protein 57) (ERp57) (Endoplasmic reticulum resident protein 60) (ER protein 60) (ERp60)	PDIA3 ERP57 ERP60 GRP58	adaptive immune response [GO:0002250]
+P30086	PEBP1_HUMAN	Phosphatidylethanolamine-binding protein 1 (PEBP-1) (HCNPpp) (Neuropolypeptide h3) (Prostatic-binding protein) (Raf kinase inhibitor protein) (RKIP) [Cleaved into: Hippocampal cholinergic neurostimulating peptide (HCNP)]	PEBP1 PBP PEBP	other
+Q96S96	PEBP4_HUMAN	Phosphatidylethanolamine-binding protein 4 (PEBP-4) (hPEBP4) (Protein cousin-of-RKIP 1)	PEBP4 CORK1 UNQ1933/PRO4408	other
+P01210	PENK_HUMAN	Proenkephalin-A [Cleaved into: Synenkephalin; Met-enkephalin (Opioid growth factor) (OGF); PENK(114-133); PENK(143-183); Met-enkephalin-Arg-Gly-Leu; Leu-enkephalin; PENK(237-258); Met-enkephalin-Arg-Phe]	PENK	signal transduction [GO:0007165]
+P12955	PEPD_HUMAN	Xaa-Pro dipeptidase (X-Pro dipeptidase) (EC 3.4.13.9) (Imidodipeptidase) (Peptidase D) (Proline dipeptidase) (Prolidase)	PEPD PRD	proteolysis [GO:0006508]
+P07737	PROF1_HUMAN	Profilin-1 (Epididymis tissue protein Li 184a) (Profilin I)	PFN1	protein stabilization [GO:0050821]
+P18669	PGAM1_HUMAN	Phosphoglycerate mutase 1 (EC 5.4.2.11) (EC 5.4.2.4) (BPG-dependent PGAM 1) (Phosphoglycerate mutase isozyme B) (PGAM-B)	PGAM1 PGAMA CDABP0006	other
+Q96PD5	PGRP2_HUMAN	N-acetylmuramoyl-L-alanine amidase (EC 3.5.1.28) (Peptidoglycan recognition protein 2) (Peptidoglycan recognition protein long) (PGRP-L)	PGLYRP2 PGLYRPL PGRPL UNQ3103/PRO10102	innate immune response [GO:0045087]
+Q6UXB8	PI16_HUMAN	Peptidase inhibitor 16 (PI-16) (Cysteine-rich secretory protein 9) (CRISP-9) (PSP94-binding protein) (CD antigen CD364)	PI16 CRISP9 PSPBP PSEC0164 UNQ289/PRO328	other
+Q96FE7	P3IP1_HUMAN	Phosphoinositide-3-kinase-interacting protein 1 (PI3K-interacting protein 1) (Kringle domain-containing protein HGFL)	PIK3IP1 HGFL	other
+C9JGG1	C9JGG1_HUMAN	Paired immunoglobin like type 2 receptor alpha	PILRA	other
+C9JGG1;C9JJ79	C9JGG1_HUMAN; C9JJ79_HUMAN	Paired immunoglobin like type 2 receptor alpha; Paired immunoglobin like type 2 receptor alpha	PILRA; PILRA	other
+Q9GZP4	PITH1_HUMAN	PITH domain-containing protein 1	PITHD1 C1orf128 AD039 HT014 PP603	other
+P14618	KPYM_HUMAN	Pyruvate kinase PKM (EC 2.7.1.40) (Cytosolic thyroid hormone-binding protein) (CTHBP) (Opa-interacting protein 3) (OIP-3) (Pyruvate kinase 2/3) (Pyruvate kinase muscle isozyme) (Threonine-protein kinase PKM2) (EC 2.7.11.1) (Thyroid hormone-binding protein 1) (THBP1) (Tumor M2-PK) (Tyrosine-protein kinase PKM2) (EC 2.7.10.2) (p58)	PKM OIP3 PK2 PK3 PKM2	positive regulation of transcription by RNA polymerase II [GO:0045944]
+Q8IV08	PLD3_HUMAN	5'-3' exonuclease PLD3 (EC 3.1.16.1) (Choline phosphatase 3) (HindIII K4L homolog) (Hu-K4) (Phosphatidylcholine-hydrolyzing phospholipase D3) (Phospholipase D3) (PLD 3)	PLD3	inflammatory response [GO:0006954]
+P00747	PLMN_HUMAN	Plasminogen (EC 3.4.21.7) [Cleaved into: Plasmin heavy chain A; Activation peptide; Angiostatin; Plasmin heavy chain A, short form; Plasmin light chain B]	PLG	proteolysis [GO:0006508]
+P55058	PLTP_HUMAN	Phospholipid transfer protein (Lipid transfer protein II)	PLTP	lipid metabolic process [GO:0006629]
+Q6UX71	PXDC2_HUMAN	Plexin domain-containing protein 2 (Tumor endothelial marker 7-related protein)	PLXDC2 TEM7R UNQ2514/PRO6003	other
+O43157	PLXB1_HUMAN	Plexin-B1 (Semaphorin receptor SEP)	PLXNB1 KIAA0407 PLXN5 SEP	cell migration [GO:0016477]
+O15031	PLXB2_HUMAN	Plexin-B2 (MM1)	PLXNB2 KIAA0315	homophilic cell adhesion via plasma membrane adhesion molecules [GO:0007156]
+Q9NZ53	PDXL2_HUMAN	Podocalyxin-like protein 2 (Endoglycan)	PODXL2 UNQ1861/PRO3742	other
+Q8WZA1	PMGT1_HUMAN	Protein O-linked-mannose beta-1,2-N-acetylglucosaminyltransferase 1 (POMGnT1) (EC 2.4.1.-) (UDP-GlcNAc:alpha-D-mannoside beta-1,2-N-acetylglucosaminyltransferase I.2) (GnT I.2)	POMGNT1 MGAT1.2 UNQ746/PRO1475	gene expression [GO:0010467]
+P27169	PON1_HUMAN	Serum paraoxonase/arylesterase 1 (PON 1) (EC 3.1.1.2) (EC 3.1.1.81) (EC 3.1.8.1) (Aromatic esterase 1) (A-esterase 1) (K-45) (Serum aryldialkylphosphatase 1)	PON1 PON	cholesterol metabolic process [GO:0008203]
+Q15166	PON3_HUMAN	Serum paraoxonase/lactonase 3 (EC 3.1.1.2) (EC 3.1.1.81) (EC 3.1.8.1)	PON3	other
+P62937	PPIA_HUMAN	Peptidyl-prolyl cis-trans isomerase A (PPIase A) (EC 5.2.1.8) (Cyclophilin A) (Cyclosporin A-binding protein) (Rotamase A) [Cleaved into: Peptidyl-prolyl cis-trans isomerase A, N-terminally processed]	PPIA CYPA	apoptotic process [GO:0006915]
+P23284	PPIB_HUMAN	Peptidyl-prolyl cis-trans isomerase B (PPIase B) (EC 5.2.1.8) (CYP-S1) (Cyclophilin B) (Rotamase B) (S-cyclophilin) (SCYLP)	PPIB CYPB	protein folding [GO:0006457]
+P45877	PPIC_HUMAN	Peptidyl-prolyl cis-trans isomerase C (PPIase C) (EC 5.2.1.8) (Cyclophilin C) (Rotamase C)	PPIC CYPC	protein folding [GO:0006457]
+Q96NZ9	PRAP1_HUMAN	Proline-rich acidic protein 1 (Epididymis tissue protein Li 178) (Uterine-specific proline-rich acidic protein)	PRAP1 UPA UNQ608/PRO1195	negative regulation of apoptotic process [GO:0043066]
+P42785	PCP_HUMAN	Lysosomal Pro-X carboxypeptidase (EC 3.4.16.2) (Angiotensinase C) (Lysosomal carboxypeptidase C) (Proline carboxypeptidase) (Prolylcarboxypeptidase) (PRCP)	PRCP PCP	proteolysis [GO:0006508]
+Q06830	PRDX1_HUMAN	Peroxiredoxin-1 (EC 1.11.1.24) (Natural killer cell-enhancing factor A) (NKEF-A) (Proliferation-associated gene protein) (PAG) (Thioredoxin peroxidase 2) (Thioredoxin-dependent peroxide reductase 2) (Thioredoxin-dependent peroxiredoxin 1)	PRDX1 PAGA PAGB TDPX2	skeletal system development [GO:0001501]
+P32119	PRDX2_HUMAN	Peroxiredoxin-2 (EC 1.11.1.24) (Natural killer cell-enhancing factor B) (NKEF-B) (PRP) (Thiol-specific antioxidant protein) (TSA) (Thioredoxin peroxidase 1) (Thioredoxin-dependent peroxide reductase 1) (Thioredoxin-dependent peroxiredoxin 2)	PRDX2 NKEFB TDPX1	negative regulation of apoptotic process [GO:0043066]
+P51888	PRELP_HUMAN	Prolargin (Proline-arginine-rich end leucine-rich repeat protein)	PRELP SLRR2A	skeletal system development [GO:0001501]
+P14314	GLU2B_HUMAN	Glucosidase 2 subunit beta (80K-H protein) (Glucosidase II subunit beta) (Protein kinase C substrate 60.1 kDa protein heavy chain) (PKCSH)	PRKCSH G19P1	other
+P04156	PRIO_HUMAN	Major prion protein (PrP) (ASCR) (PrP27-30) (PrP33-35C) (CD antigen CD230)	PRNP ALTPRP PRIP PRP	negative regulation of apoptotic process [GO:0043066]
+P04070	PROC_HUMAN	Vitamin K-dependent protein C (EC 3.4.21.69) (Anticoagulant protein C) (Autoprothrombin IIA) (Blood coagulation factor XIV) [Cleaved into: Vitamin K-dependent protein C light chain; Vitamin K-dependent protein C heavy chain; Activation peptide]	PROC	proteolysis [GO:0006508]
+Q9UNN8	EPCR_HUMAN	Endothelial protein C receptor (Activated protein C receptor) (APC receptor) (Endothelial cell protein C receptor) (CD antigen CD201)	PROCR EPCR	blood coagulation [GO:0007596]
+P07225	PROS_HUMAN	Vitamin K-dependent protein S	PROS1 PROS	blood coagulation [GO:0007596]
+P22891	PROZ_HUMAN	Vitamin K-dependent protein Z	PROZ	proteolysis [GO:0006508]
+P07602	SAP_HUMAN	Prosaposin (Proactivator polypeptide) [Cleaved into: Saposin-A (Protein A); Saposin-B-Val; Saposin-B (Cerebroside sulfate activator) (CSAct) (Dispersin) (Sphingolipid activator protein 1) (SAP-1) (Sulfatide/GM1 activator); Saposin-C (A1 activator) (Co-beta-glucosidase) (Glucosylceramidase activator) (Sphingolipid activator protein 2) (SAP-2); Saposin-D (Component C) (Protein C)]	PSAP GLBA SAP1	other
+P41222	PTGDS_HUMAN	Prostaglandin-H2 D-isomerase (EC 5.3.99.2) (Beta-trace protein) (Cerebrin-28) (Glutathione-independent PGD synthase) (Lipocalin-type prostaglandin-D synthase) (L-PGDS) (Prostaglandin-D2 synthase) (PGD2 synthase) (PGDS) (PGDS2)	PTGDS PDS	gene expression [GO:0010467]
+P23468	PTPRD_HUMAN	Receptor-type tyrosine-protein phosphatase delta (Protein-tyrosine phosphatase delta) (R-PTP-delta) (EC 3.1.3.48)	PTPRD	heterophilic cell-cell adhesion via plasma membrane cell adhesion molecules [GO:0007157]
+P10586	PTPRF_HUMAN	Receptor-type tyrosine-protein phosphatase F (EC 3.1.3.48) (Leukocyte common antigen related) (LAR)	PTPRF LAR	cell adhesion [GO:0007155]
+P23470	PTPRG_HUMAN	Receptor-type tyrosine-protein phosphatase gamma (Protein-tyrosine phosphatase gamma) (R-PTP-gamma) (EC 3.1.3.48)	PTPRG PTPG	negative regulation of neuron projection development [GO:0010977]
+Q15262	PTPRK_HUMAN	Receptor-type tyrosine-protein phosphatase kappa (Protein-tyrosine phosphatase kappa) (R-PTP-kappa) (EC 3.1.3.48)	PTPRK PTPK	cell adhesion [GO:0007155]
+Q16849	PTPRN_HUMAN	Receptor-type tyrosine-protein phosphatase-like N (R-PTP-N) (Islet cell antigen 512) (ICA 512) (Islet cell autoantigen 3) (PTP IA-2) [Cleaved into: ICA512-N-terminal fragment (ICA512-NTF); ICA512-transmembrane fragment (ICA512-TMF); ICA512-cleaved cytosolic fragment (ICA512-CCF)]	PTPRN ICA3 ICA512	positive regulation of transcription by RNA polymerase II [GO:0045944]
+Q92932	PTPR2_HUMAN	Receptor-type tyrosine-protein phosphatase N2 (R-PTP-N2) (EC 3.1.3.-) (EC 3.1.3.48) (Islet cell autoantigen-related protein) (IAR) (ICAAR) (Phogrin) [Cleaved into: IA-2beta60]	PTPRN2 KIAA0387	lipid metabolic process [GO:0006629]
+Q13332	PTPRS_HUMAN	Receptor-type tyrosine-protein phosphatase S (R-PTP-S) (EC 3.1.3.48) (Receptor-type tyrosine-protein phosphatase sigma) (R-PTP-sigma)	PTPRS	negative regulation of neuron projection development [GO:0010977]
+P23471	PTPRZ_HUMAN	Receptor-type tyrosine-protein phosphatase zeta (R-PTP-zeta) (EC 3.1.3.48) (Protein-tyrosine phosphatase receptor type Z polypeptide 1) (Protein-tyrosine phosphatase receptor type Z polypeptide 2) (R-PTP-zeta-2)	PTPRZ1 HTPZP2 PTPRZ PTPRZ2 PTPZ	central nervous system development [GO:0007417]
+P20472	PRVA_HUMAN	Parvalbumin alpha	PVALB	gene expression [GO:0010467]
+P09417	DHPR_HUMAN	Dihydropteridine reductase (EC 1.5.1.34) (HDHPR) (Quinoid dihydropteridine reductase) (Short chain dehydrogenase/reductase family 33C member 1)	QDPR DHPR SDR33C1	other
+Q16769	QPCT_HUMAN	Glutaminyl-peptide cyclotransferase (EC 2.3.2.5) (Glutaminyl cyclase) (QC) (sQC) (Glutaminyl-tRNA cyclotransferase) (Glutamyl cyclase) (EC)	QPCT	other
+O00391	QSOX1_HUMAN	Sulfhydryl oxidase 1 (hQSOX) (EC 1.8.3.2) (Quiescin Q6)	QSOX1 QSCN6 UNQ2520/PRO6013	protein folding [GO:0006457]
+Q99969	RARR2_HUMAN	Retinoic acid receptor responder protein 2 (Chemerin) (RAR-responsive protein TIG2) (Tazarotene-induced gene 2 protein)	RARRES2 TIG2	innate immune response [GO:0045087]
+P02753	RET4_HUMAN	Retinol-binding protein 4 (Plasma retinol-binding protein) (PRBP) (RBP) [Cleaved into: Plasma retinol-binding protein(1-182); Plasma retinol-binding protein(1-181); Plasma retinol-binding protein(1-179); Plasma retinol-binding protein(1-176)]	RBP4 PRO2222	other
+P78509	RELN_HUMAN	Reelin (EC 3.4.21.-)	RELN	cell adhesion [GO:0007155]
+Q96B86	RGMA_HUMAN	Repulsive guidance molecule A (RGM domain family member A)	RGMA RGM	positive regulation of transcription by RNA polymerase II [GO:0045944]
+Q6NW40	RGMB_HUMAN	Repulsive guidance molecule B (DRG11-responsive axonal guidance and outgrowth of neurite) (DRAGON)	RGMB	cell adhesion [GO:0007155]
+P34096	RNAS4_HUMAN	Ribonuclease 4 (RNase 4) (EC 3.1.27.-)	RNASE4 RNS4	antibacterial humoral response [GO:0019731]
+Q93091	RNAS6_HUMAN	Ribonuclease K6 (RNase K6) (EC 3.1.27.-)	RNASE6 RNS6	innate immune response [GO:0045087]
+O00584	RNT2_HUMAN	Ribonuclease T2 (EC 4.6.1.19) (Ribonuclease 6)	RNASET2 RNASE6PL	innate immune response [GO:0045087]
+Q9Y6N7	ROBO1_HUMAN	Roundabout homolog 1 (Deleted in U twenty twenty) (H-Robo-1)	ROBO1 DUTT1	cell adhesion [GO:0007155]
+P62979	RS27A_HUMAN	Ubiquitin-ribosomal protein eS31 fusion protein (Ubiquitin carboxyl extension protein 80) [Cleaved into: Ubiquitin; Small ribosomal subunit protein eS31 (40S ribosomal protein S27a)]	RPS27A UBA80 UBCEP1	other
+Q9BZR6	RTN4R_HUMAN	Reticulon-4 receptor (Nogo receptor) (NgR) (Nogo-66 receptor)	RTN4R NOGOR UNQ330/PRO526	cell surface receptor signaling pathway [GO:0007166]
+Q86UN2	R4RL1_HUMAN	Reticulon-4 receptor-like 1 (Nogo receptor-like 2) (Nogo-66 receptor homolog 2) (Nogo-66 receptor-related protein 3) (NgR3)	RTN4RL1 NGRH2 NGRL2	negative regulation of neuron projection development [GO:0010977]
+Q86UN3	R4RL2_HUMAN	Reticulon-4 receptor-like 2 (Nogo receptor-like 3) (Nogo-66 receptor homolog 1) (Nogo-66 receptor-related protein 2) (NgR2)	RTN4RL2 NGRH1 NGRL3	cell surface receptor signaling pathway [GO:0007166]
+P05109	S10A8_HUMAN	Protein S100-A8 (Calgranulin-A) (Calprotectin L1L subunit) (Cystic fibrosis antigen) (CFAG) (Leukocyte L1 complex light chain) (Migration inhibitory factor-related protein 8) (MRP-8) (p8) (S100 calcium-binding protein A8) (Urinary stone protein band A)	S100A8 CAGA CFAG MRP8	innate immune response [GO:0045087]
+P06702	S10A9_HUMAN	Protein S100-A9 (Calgranulin-B) (Calprotectin L1H subunit) (Leukocyte L1 complex heavy chain) (Migration inhibitory factor-related protein 14) (MRP-14) (p14) (S100 calcium-binding protein A9)	S100A9 CAGB CFAG MRP14	innate immune response [GO:0045087]
+P04271	S100B_HUMAN	Protein S100-B (S-100 protein beta chain) (S-100 protein subunit beta) (S100 calcium-binding protein B)	S100B	cell adhesion [GO:0007155]
+A0A096LPE2	A0A096LPE2_HUMAN	SAA2-SAA4 readthrough	SAA2-SAA4	acute-phase response [GO:0006953]
+P13521	SCG2_HUMAN	Secretogranin-2 (Chromogranin-C) (Secretogranin II) (SgII) [Cleaved into: Secretoneurin (SN); Manserin]	SCG2 CHGC	inflammatory response [GO:0006954]
+Q8WXD2	SCG3_HUMAN	Secretogranin-3 (Secretogranin III) (SgIII)	SCG3 UNQ2502/PRO5990	other
+P05408	7B2_HUMAN	Neuroendocrine protein 7B2 (Pituitary polypeptide) (Secretogranin V) (Secretogranin-5) (Secretory granule endocrine protein I) [Cleaved into: N-terminal peptide; C-terminal peptide]	SCG5 SGNE1	neuropeptide signaling pathway [GO:0007218]
+Q9NY72	SCN3B_HUMAN	Sodium channel regulatory subunit beta-3	SCN3B KIAA1158	nervous system development [GO:0007399]
+Q9BRK5	CAB45_HUMAN	45 kDa calcium-binding protein (Cab45) (Stromal cell-derived factor 4) (SDF-4)	SDF4 CAB45 PSEC0034	response to ethanol [GO:0045471]
+Q13228	SBP1_HUMAN	Methanethiol oxidase (MTO) (EC 1.8.3.4) (56 kDa selenium-binding protein) (SBP56) (SP56) (Selenium-binding protein 1)	SELENBP1 SBP	other
+Q8WWX9	SELM_HUMAN	Selenoprotein M (SelM)	SELENOM SELM	other
+P49908	SEPP1_HUMAN	Selenoprotein P (SeP)	SELENOP SELP SEPP1	locomotory behavior [GO:0007626]
+P14151	LYAM1_HUMAN	L-selectin (CD62 antigen-like family member L) (Leukocyte adhesion molecule 1) (LAM-1) (Leukocyte surface antigen Leu-8) (Leukocyte-endothelial cell adhesion molecule 1) (LECAM1) (Lymph node homing receptor) (TQ1) (gp90-MEL) (CD antigen CD62L)	SELL LNHR LYAM1	cell adhesion [GO:0007155]
+Q9NS98	SEM3G_HUMAN	Semaphorin-3G (Semaphorin sem2)	SEMA3G	axon guidance [GO:0007411]
+Q9NPR2	SEM4B_HUMAN	Semaphorin-4B (Semaphorin-C)	SEMA4B KIAA1745 SEMAC UNQ749/PRO1480	axon guidance [GO:0007411]
+O75326	SEM7A_HUMAN	Semaphorin-7A (CDw108) (JMH blood group antigen) (John-Milton-Hargen human blood group Ag) (Semaphorin-K1) (Sema K1) (Semaphorin-L) (Sema L) (CD antigen CD108)	SEMA7A CD108 SEMAL	immune response [GO:0006955]
+P01009	A1AT_HUMAN	Alpha-1-antitrypsin (Alpha-1 protease inhibitor) (Alpha-1-antiproteinase) (Serpin A1) [Cleaved into: Short peptide from AAT (SPAAT)]	SERPINA1 AAT PI PRO0684 PRO2209	blood coagulation [GO:0007596]
+A0A024R6N5	A0A024R6N5_HUMAN	Serpin family A member 1 (Serpin peptidase inhibitor, clade A (Alpha-1 antiproteinase, antitrypsin), member 1, isoform CRA_a)	SERPINA1 hCG_2029168	other
+P01011	AACT_HUMAN	Alpha-1-antichymotrypsin (ACT) (Cell growth-inhibiting gene 24/25 protein) (Serpin A3) [Cleaved into: Alpha-1-antichymotrypsin His-Pro-less]	SERPINA3 AACT GIG24 GIG25	inflammatory response [GO:0006954]
+P29622	KAIN_HUMAN	Kallistatin (Kallikrein inhibitor) (Peptidase inhibitor 4) (PI-4) (Serpin A4)	SERPINA4 KST PI4	other
+P05154	IPSP_HUMAN	Plasma serine protease inhibitor (Acrosomal serine protease inhibitor) (Plasminogen activator inhibitor 3) (PAI-3) (PAI3) (Protein C inhibitor) (PCI) (Serpin A5)	SERPINA5 PCI PLANH3 PROCI	spermatogenesis [GO:0007283]
+P08185	CBG_HUMAN	Corticosteroid-binding globulin (CBG) (Serpin A6) (Transcortin)	SERPINA6 CBG	other
+P05543	THBG_HUMAN	Thyroxine-binding globulin (Serpin A7) (T4-binding globulin)	SERPINA7 TBG	other
+P30740	ILEU_HUMAN	Leukocyte elastase inhibitor (LEI) (Monocyte/neutrophil elastase inhibitor) (EI) (M/NEI) (Peptidase inhibitor 2) (PI-2) (Serpin B1)	SERPINB1 ELANH2 MNEI PI2	negative regulation of cell migration [GO:0030336]
+P35237	SPB6_HUMAN	Serpin B6 (Cytoplasmic antiproteinase) (CAP) (Peptidase inhibitor 6) (PI-6) (Placental thrombin inhibitor)	SERPINB6 PI6 PTI	other
+P01008	ANT3_HUMAN	Antithrombin-III (ATIII) (Serpin C1)	SERPINC1 AT3 PRO0309	blood coagulation [GO:0007596]
+P05546	HEP2_HUMAN	Heparin cofactor 2 (Heparin cofactor II) (HC-II) (Protease inhibitor leuserpin-2) (HLS2) (Serpin D1)	SERPIND1 HCF2	blood coagulation [GO:0007596]
+P36955	PEDF_HUMAN	Pigment epithelium-derived factor (PEDF) (Cell proliferation-inducing gene 35 protein) (EPC-1) (Serpin F1)	SERPINF1 PEDF PIG35	positive regulation of neuron projection development [GO:0010976]
+P08697	A2AP_HUMAN	Alpha-2-antiplasmin (Alpha-2-AP) (Alpha-2-plasmin inhibitor) (Alpha-2-PI) (Serpin F2)	SERPINF2 AAP PLI	positive regulation of ERK1 and ERK2 cascade [GO:0070374]
+P05155	IC1_HUMAN	Plasma protease C1 inhibitor (C1 Inh) (C1Inh) (C1 esterase inhibitor) (C1-inhibiting factor) (Serpin G1)	SERPING1 C1IN C1NH	innate immune response [GO:0045087]
+Q99574	NEUS_HUMAN	Neuroserpin (Peptidase inhibitor 12) (PI-12) (Serpin I1)	SERPINI1 PI12	central nervous system development [GO:0007417]
+Q53EL9	SEZ6_HUMAN	Seizure protein 6 homolog (SEZ-6) (hSEZ-6)	SEZ6	other
+Q9BYH1	SE6L1_HUMAN	Seizure 6-like protein	SEZ6L KIAA0927 UNQ2542/PRO6094	other
+A0A087WYL5	A0A087WYL5_HUMAN	Seizure related 6 homolog like 2	SEZ6L2	other
+O43556	SGCE_HUMAN	Epsilon-sarcoglycan (Epsilon-SG)	SGCE ESG UNQ433/PRO840	cell-matrix adhesion [GO:0007160]
+O75368	SH3L1_HUMAN	Adapter SH3BGRL (SH3 domain-binding glutamic acid-rich-like protein 1)	SH3BGRL	other
+Q9H299	SH3L3_HUMAN	SH3 domain-binding glutamic acid-rich-like protein 3 (SH3 domain-binding protein 1) (SH3BP-1) (TNF inhibitory protein B1) (TIP-B1)	SH3BGRL3 P1725	other
+P04278	SHBG_HUMAN	Sex hormone-binding globulin (SHBG) (Sex steroid-binding protein) (SBP) (Testis-specific androgen-binding protein) (ABP) (Testosterone-estradiol-binding globulin) (TeBG) (Testosterone-estrogen-binding globulin)	SHBG	other
+Q6ZSJ9	SHSA6_HUMAN	Protein shisa-6	SHISA6	spermatogenesis [GO:0007283]
+Q9HAT2	SIAE_HUMAN	Sialate O-acetylesterase (EC 3.1.1.53) (H-Lse) (Sialic acid-specific 9-O-acetylesterase)	SIAE YSG2	carbohydrate metabolic process [GO:0005975]
+P78324	SHPS1_HUMAN	Tyrosine-protein phosphatase non-receptor type substrate 1 (SHP substrate 1) (SHPS-1) (Brain Ig-like molecule with tyrosine-based activation motifs) (Bit) (CD172 antigen-like family member A) (Inhibitory receptor SHPS-1) (Macrophage fusion receptor) (MyD-1 antigen) (Signal-regulatory protein alpha-1) (Sirp-alpha-1) (Signal-regulatory protein alpha-2) (Sirp-alpha-2) (Signal-regulatory protein alpha-3) (Sirp-alpha-3) (p84) (CD antigen CD172a)	SIRPA BIT MFR MYD1 PTPNS1 SHPS1 SIRP	cell adhesion [GO:0007155]
+Q9ULF5	S39AA_HUMAN	Zinc transporter ZIP10 (Solute carrier family 39 member 10) (Zrt- and Irt-like protein 10) (ZIP-10)	SLC39A10 KIAA1265 ZIP10	other
+P08195	4F2_HUMAN	Amino acid transporter heavy chain SLC3A2 (4F2 cell-surface antigen heavy chain) (4F2hc) (4F2 heavy chain antigen) (Lymphocyte activation antigen 4F2 large subunit) (Solute carrier family 3 member 2) (CD antigen CD98)	SLC3A2 MDU1	carbohydrate metabolic process [GO:0005975]
+Q96PX8	SLIK1_HUMAN	SLIT and NTRK-like protein 1 (Leucine-rich repeat-containing protein 12)	SLITRK1 KIAA1910 LRRC12 UNQ233/PRO266	axonogenesis [GO:0007409]
+Q8IW52	SLIK4_HUMAN	SLIT and NTRK-like protein 4	SLITRK4	axonogenesis [GO:0007409]
+Q92485	ASM3B_HUMAN	Acid sphingomyelinase-like phosphodiesterase 3b (ASM-like phosphodiesterase 3b) (EC 3.1.4.-)	SMPDL3B ASML3B ASMLPD	innate immune response [GO:0045087]
+P00441	SODC_HUMAN	Superoxide dismutase [Cu-Zn] (EC 1.15.1.1) (Superoxide dismutase 1) (hSod1)	SOD1	apoptotic process [GO:0006915]
+P04179	SODM_HUMAN	Superoxide dismutase [Mn], mitochondrial (EC 1.15.1.1)	SOD2	negative regulation of cell population proliferation [GO:0008285]
+P08294	SODE_HUMAN	Extracellular superoxide dismutase [Cu-Zn] (EC-SOD) (EC 1.15.1.1)	SOD3	response to hypoxia [GO:0001666]
+Q9UPU3	SORC3_HUMAN	VPS10 domain-containing receptor SorCS3	SORCS3 KIAA1059	neuropeptide signaling pathway [GO:0007218]
+Q92673	SORL_HUMAN	Sortilin-related receptor (Low-density lipoprotein receptor relative with 11 ligand-binding repeats) (LDLR relative with 11 ligand-binding repeats) (LR11) (SorLA-1) (Sorting protein-related receptor containing LDLR class A repeats) (SorLA)	SORL1 C11orf32	cell migration [GO:0016477]
+Q99523	SORT_HUMAN	Sortilin (100 kDa NT receptor) (Glycoprotein 95) (Gp95) (Neurotensin receptor 3) (NT3) (NTR3)	SORT1	G protein-coupled receptor signaling pathway [GO:0007186]
+Q14515	SPRL1_HUMAN	SPARC-like protein 1 (High endothelial venule protein) (Hevin) (MAST 9)	SPARCL1	signal transduction [GO:0007165]
+O43291	SPIT2_HUMAN	Kunitz-type protease inhibitor 2 (Hepatocyte growth factor activator inhibitor type 2) (HAI-2) (Placental bikunin)	SPINT2 HAI2 KOP	other
+Q08629	TICN1_HUMAN	Testican-1 (Protein SPOCK)	SPOCK1 SPOCK TIC1 TICN1	cell adhesion [GO:0007155]
+Q9BQ16	TICN3_HUMAN	Testican-3 (SPARC/osteonectin, CWCV, and Kazal-like domains proteoglycan 3)	SPOCK3 TICN3 UNQ409/PRO771	other
+Q9HCB6	SPON1_HUMAN	Spondin-1 (F-spondin) (Vascular smooth muscle cell growth-promoting factor)	SPON1 KIAA0762 VSGP	cell adhesion [GO:0007155]
+P10451	OSTP_HUMAN	Osteopontin (Bone sialoprotein 1) (Nephropontin) (Secreted phosphoprotein 1) (SPP-1) (Urinary stone protein) (Uropontin)	SPP1 BNSP OPN PSEC0156	cell adhesion [GO:0007155]
+Q9NSC7	SIA7A_HUMAN	Alpha-N-acetylgalactosaminide alpha-2,6-sialyltransferase 1 (EC 2.4.3.3) (GalNAc alpha-2,6-sialyltransferase I) (ST6GalNAc I) (ST6GalNAc-I) (ST6GalNAcI) (hST6GalNAc-I) (Sialyltransferase 7A) (SIAT7-A)	ST6GALNAC1 SIAT7A UNQ543/PRO848	other
+O43173	SIA8C_HUMAN	Alpha-N-acetylneuraminate alpha-2,8-sialyltransferase ST8SIA3 (EC 2.4.3.-) (Alpha-2,8-sialyltransferase 8C) (Alpha-2,8-sialyltransferase III) (Ganglioside GD3 synthase ST8SIA3) (EC 2.4.3.8) (ST8 alpha-N-acetyl-neuraminide alpha-2,8-sialyltransferase 3) (Sia-a2,3-Gal-b1,4-Glc-NAc-R:a2,8-sialyltransferase) (hST8Sia III) (Sialyltransferase 8C) (SIAT8-C) (Sialyltransferase St8Sia III) (ST8SiaIII)	ST8SIA3 SIAT8C	other
+Q8IWU5	SULF2_HUMAN	Extracellular sulfatase Sulf-2 (hSulf-2) (Arylsulfatase) (EC 3.1.6.1) (N-acetylglucosamine-6-sulfatase) (EC 3.1.6.14) [Cleaved into: Extracellular sulfatase Sulf-2 secreted form]	SULF2 KIAA1247 UNQ559/PRO1120	other
+O60279	SUSD5_HUMAN	Sushi domain-containing protein 5	SUSD5 KIAA0527	cell adhesion [GO:0007155]
+Q9UHF0	TKNK_HUMAN	Tachykinin-3 (ZNEUROK1) [Cleaved into: Neurokinin-B (NKB) (Neuromedin-K)]	TAC3 NKNB UNQ585/PRO1155	neuropeptide signaling pathway [GO:0007218]
+Q01995	TAGL_HUMAN	Transgelin (22 kDa actin-binding protein) (Protein WS3-10) (Smooth muscle protein 22-alpha) (SM22-alpha)	TAGLN SM22 WS3-10	other
+P37837	TALDO_HUMAN	Transaldolase (EC 2.2.1.2)	TALDO1 TAL TALDO TALDOR	carbohydrate metabolic process [GO:0005975]
+P20062	TCO2_HUMAN	Transcobalamin-2 (TC-2) (Transcobalamin II) (TC II) (TCII)	TCN2 TC2	other
+P02787	TRFE_HUMAN	Serotransferrin (Transferrin) (Beta-1 metal-binding globulin) (Siderophilin)	TF PRO1400	antibacterial humoral response [GO:0019731]
+Q15582	BGH3_HUMAN	Transforming growth factor-beta-induced protein ig-h3 (Beta ig-h3) (Kerato-epithelin) (RGD-containing collagen-associated protein) (RGD-CAP)	TGFBI BIGH3	cell adhesion [GO:0007155]
+Q03167	TGBR3_HUMAN	Transforming growth factor beta receptor type 3 (TGF-beta receptor type 3) (TGFR-3) (Betaglycan) (Transforming growth factor beta receptor III) (TGF-beta receptor type III)	TGFBR3	immune response [GO:0006955]
+O43493	TGON2_HUMAN	Trans-Golgi network integral membrane protein 2 (Trans-Golgi network glycoprotein 46) (TGN38 homolog) (hTGN46) (Trans-Golgi network glycoprotein 48) (hTGN48) (Trans-Golgi network glycoprotein 51) (hTGN51) (Trans-Golgi network protein 2)	TGOLN2 TGN46 TGN51	other
+P04216	THY1_HUMAN	Thy-1 membrane glycoprotein (CDw90) (Thy-1 antigen) (CD antigen CD90)	THY1	angiogenesis [GO:0001525]
+P01033	TIMP1_HUMAN	Metalloproteinase inhibitor 1 (Erythroid-potentiating activity) (EPA) (Fibroblast collagenase inhibitor) (Collagenase inhibitor) (Tissue inhibitor of metalloproteinases 1) (TIMP-1)	TIMP1 CLGI TIMP	positive regulation of cell population proliferation [GO:0008284]
+P16035	TIMP2_HUMAN	Metalloproteinase inhibitor 2 (CSC-21K) (Tissue inhibitor of metalloproteinases 2) (TIMP-2)	TIMP2	other
+Q24JP5	T132A_HUMAN	Transmembrane protein 132A (HSPA5-binding protein 1)	TMEM132A HSPA5BP1 KIAA1583	other
+O75509	TNR21_HUMAN	Tumor necrosis factor receptor superfamily member 21 (Death receptor 6) (CD antigen CD358)	TNFRSF21 DR6 UNQ437/PRO868	adaptive immune response [GO:0002250]
+Q92752	TENR_HUMAN	Tenascin-R (TN-R) (Janusin) (Restrictin)	TNR	cell adhesion [GO:0007155]
+P22105	TENX_HUMAN	Tenascin-X (TN-X) (Hexabrachion-like protein)	TNXB HXBL TNX TNXB1 TNXB2 XB	cell adhesion [GO:0007155]
+P60174	TPIS_HUMAN	Triosephosphate isomerase (TIM) (EC 5.3.1.1) (Methylglyoxal synthase) (EC 4.2.3.3) (Triose-phosphate isomerase)	TPI1 TPI	other
+O14773	TPP1_HUMAN	Tripeptidyl-peptidase 1 (TPP-1) (EC 3.4.14.9) (Cell growth-inhibiting gene 1 protein) (Lysosomal pepstatin-insensitive protease) (LPIC) (Tripeptidyl aminopeptidase) (Tripeptidyl-peptidase I) (TPP-I)	TPP1 CLN2 GIG1 UNQ267/PRO304	proteolysis [GO:0006508]
+Q9NZC2	TREM2_HUMAN	Triggering receptor expressed on myeloid cells 2 (TREM-2) (Triggering receptor expressed on monocytes 2)	TREM2	positive regulation of gene expression [GO:0010628]
+P02766	TTHY_HUMAN	Transthyretin (ATTR) (Prealbumin) (TBPA)	TTR PALB	other
+Q9GZX9	TWSG1_HUMAN	Twisted gastrulation protein homolog 1	TWSG1 TSG PSEC0250	ossification [GO:0001503]
+P10599	THIO_HUMAN	Thioredoxin (Trx) (ATL-derived factor) (ADF) (Surface-associated sulphydryl protein) (SASP) (allergen Hom s Trx)	TXN TRDX TRX TRX1	positive regulation of phosphatidylinositol 3-kinase/protein kinase B signal transduction [GO:0051897]
+Q8NBS9	TXND5_HUMAN	Thioredoxin domain-containing protein 5 (EC 1.8.4.-) (EC 5.3.4.1) (Endoplasmic reticulum resident protein 46) (ER protein 46) (ERp46) (Thioredoxin-like protein p46)	TXNDC5 TLP46 UNQ364/PRO700	negative regulation of apoptotic process [GO:0043066]
+Q06418	TYRO3_HUMAN	Tyrosine-protein kinase receptor TYRO3 (EC 2.7.10.1) (Tyrosine-protein kinase BYK) (Tyrosine-protein kinase DTK) (Tyrosine-protein kinase RSE) (Tyrosine-protein kinase SKY) (Tyrosine-protein kinase TIF)	TYRO3 BYK DTK RSE SKY TIF	cell adhesion [GO:0007155]
+P62987	RL40_HUMAN	Ubiquitin-ribosomal protein eL40 fusion protein (CEP52) (Ubiquitin A-52 residue ribosomal protein fusion product 1) [Cleaved into: Ubiquitin; Large ribosomal subunit protein eL40 (60S ribosomal protein L40)]	UBA52 UBCEP2	other
+P0CG47	UBB_HUMAN	Polyubiquitin-B [Cleaved into: Ubiquitin]	UBB	other
+P0CG47;P0CG48;P62979;P62987	UBB_HUMAN; UBB_HUMAN; UBB_HUMAN; UBB_HUMAN; UBB_HUMAN; UBB_HUMAN; UBB_HUMAN; UBB_HUMAN; UBB_HUMAN; UBB_HUMAN; UBB_HUMAN; UBB_HUMAN; UBB_HUMAN; UBB_HUMAN; UBB_HUMAN; UBB_HUMAN; UBB_HUMAN; UBC_HUMAN; UBC_HUMAN; RS27A_HUMAN; RS27A_HUMAN; RS27A_HUMAN; RS27A_HUMAN; RL40_HUMAN; RL40_HUMAN; RL40_HUMAN; RL40_HUMAN	Polyubiquitin-B [Cleaved into: Ubiquitin]; Polyubiquitin-B [Cleaved into: Ubiquitin]; Polyubiquitin-B [Cleaved into: Ubiquitin]; Polyubiquitin-B [Cleaved into: Ubiquitin]; Polyubiquitin-B [Cleaved into: Ubiquitin]; Polyubiquitin-B [Cleaved into: Ubiquitin]; Polyubiquitin-B [Cleaved into: Ubiquitin]; Polyubiquitin-B [Cleaved into: Ubiquitin]; Polyubiquitin-B [Cleaved into: Ubiquitin]; Polyubiquitin-B [Cleaved into: Ubiquitin]; Polyubiquitin-B [Cleaved into: Ubiquitin]; Polyubiquitin-B [Cleaved into: Ubiquitin]; Polyubiquitin-B [Cleaved into: Ubiquitin]; Polyubiquitin-B [Cleaved into: Ubiquitin]; Polyubiquitin-B [Cleaved into: Ubiquitin]; Polyubiquitin-B [Cleaved into: Ubiquitin]; Polyubiquitin-B [Cleaved into: Ubiquitin]; Polyubiquitin-C [Cleaved into: Ubiquitin]; Polyubiquitin-C [Cleaved into: Ubiquitin]; Ubiquitin-ribosomal protein eS31 fusion protein (Ubiquitin carboxyl extension protein 80) [Cleaved into: Ubiquitin; Small ribosomal subunit protein eS31 (40S ribosomal protein S27a)]; Ubiquitin-ribosomal protein eS31 fusion protein (Ubiquitin carboxyl extension protein 80) [Cleaved into: Ubiquitin; Small ribosomal subunit protein eS31 (40S ribosomal protein S27a)]; Ubiquitin-ribosomal protein eS31 fusion protein (Ubiquitin carboxyl extension protein 80) [Cleaved into: Ubiquitin; Small ribosomal subunit protein eS31 (40S ribosomal protein S27a)]; Ubiquitin-ribosomal protein eS31 fusion protein (Ubiquitin carboxyl extension protein 80) [Cleaved into: Ubiquitin; Small ribosomal subunit protein eS31 (40S ribosomal protein S27a)]; Ubiquitin-ribosomal protein eL40 fusion protein (CEP52) (Ubiquitin A-52 residue ribosomal protein fusion product 1) [Cleaved into: Ubiquitin; Large ribosomal subunit protein eL40 (60S ribosomal protein L40)]; Ubiquitin-ribosomal protein eL40 fusion protein (CEP52) (Ubiquitin A-52 residue ribosomal protein fusion product 1) [Cleaved into: Ubiquitin; Large ribosomal subunit protein eL40 (60S ribosomal protein L40)]; Ubiquitin-ribosomal protein eL40 fusion protein (CEP52) (Ubiquitin A-52 residue ribosomal protein fusion product 1) [Cleaved into: Ubiquitin; Large ribosomal subunit protein eL40 (60S ribosomal protein L40)]; Ubiquitin-ribosomal protein eL40 fusion protein (CEP52) (Ubiquitin A-52 residue ribosomal protein fusion product 1) [Cleaved into: Ubiquitin; Large ribosomal subunit protein eL40 (60S ribosomal protein L40)]	UBB; UBB; UBB; UBB; UBB; UBB; UBB; UBB; UBB; UBB; UBB; UBB; UBB; UBB; UBB; UBB; UBB; UBC; UBC; RPS27A UBA80 UBCEP1; RPS27A UBA80 UBCEP1; RPS27A UBA80 UBCEP1; RPS27A UBA80 UBCEP1; UBA52 UBCEP2; UBA52 UBCEP2; UBA52 UBCEP2; UBA52 UBCEP2	other
+P0CG48	UBC_HUMAN	Polyubiquitin-C [Cleaved into: Ubiquitin]	UBC	other
+Q6EMK4	VASN_HUMAN	Vasorin (Protein slit-like 2)	VASN SLITL2 UNQ314/PRO357/PRO1282	other
+P19320	VCAM1_HUMAN	Vascular cell adhesion protein 1 (V-CAM 1) (VCAM-1) (INCAM-100) (CD antigen CD106) [Cleaved into: Soluble Vascular Cell Adhesion Molecule-1]	VCAM1	cell adhesion [GO:0007155]
+P13611	CSPG2_HUMAN	Versican core protein (Chondroitin sulfate proteoglycan core protein 2) (Chondroitin sulfate proteoglycan 2) (Glial hyaluronate-binding protein) (GHAP) (Large fibroblast proteoglycan) (PG-M)	VCAN CSPG2	cell adhesion [GO:0007155]
+O15240	VGF_HUMAN	Neurosecretory protein VGF [Cleaved into: Neuroendocrine regulatory peptide-1 (NERP-1); Neuroendocrine regulatory peptide-2 (NERP-2); VGF-derived peptide TLQP-21; VGF-derived peptide TLQP-62; Antimicrobial peptide VGF[554-577]]	VGF	other
+P08670	VIME_HUMAN	Vimentin	VIM	positive regulation of gene expression [GO:0010628]
+Q9Y279	VSIG4_HUMAN	V-set and immunoglobulin domain-containing protein 4 (Protein Z39Ig)	VSIG4 CRIg Z39IG UNQ317/PRO362	complement activation, alternative pathway [GO:0006957]
+Q8TAG5	VTM2A_HUMAN	V-set and transmembrane domain-containing protein 2A	VSTM2A VSTM2	positive regulation of gene expression [GO:0010628]
+P04004	VTNC_HUMAN	Vitronectin (VN) (S-protein) (Serum-spreading factor) (V75) [Cleaved into: Vitronectin V65 subunit; Vitronectin V10 subunit; Somatomedin-B]	VTN	cell adhesion [GO:0007155]
+Q2TAL6	VWC2_HUMAN	Brorin (Brain-specific chordin-like protein) (von Willebrand factor C domain-containing protein 2)	VWC2 UNQ739/PRO1434	other
+Q8TEU8	WFKN2_HUMAN	WAP, Kazal, immunoglobulin, Kunitz and NTR domain-containing protein 2 (Growth and differentiation factor-associated serum protein 1) (GASP-1) (hGASP-1) (WAP, follistatin, immunoglobulin, Kunitz and NTR domain-containing-related protein) (WFIKKN-related protein)	WFIKKN2 GASP1 WFIKKNRP UNQ9235/PRO31996	skeletal system development [GO:0001501]
+Q86Y38	XYLT1_HUMAN	Xylosyltransferase 1 (EC 2.4.2.26) (Peptide O-xylosyltransferase 1) (Xylosyltransferase I) (XT-I) (XylT-I)	XYLT1 XT1	other
+Q9GZM5	YIPF3_HUMAN	Protein YIPF3 (Killer lineage protein 1) (Natural killer cell-specific antigen KLIP1) (YIP1 family member 3) [Cleaved into: Protein YIPF3, 36 kDa form III]	YIPF3 C6orf109 KLIP1	cell differentiation [GO:0030154]
+P62258	1433E_HUMAN	14-3-3 protein epsilon (14-3-3E)	YWHAE	signal transduction [GO:0007165]
+P61981	1433G_HUMAN	14-3-3 protein gamma (Protein kinase C inhibitor protein 1) (KCIP-1) [Cleaved into: 14-3-3 protein gamma, N-terminally processed]	YWHAG	signal transduction [GO:0007165]
+P63104	1433Z_HUMAN	14-3-3 protein zeta/delta (Protein kinase C inhibitor protein 1) (KCIP-1)	YWHAZ	signal transduction [GO:0007165]
+A0A0G2JRQ6	A0A0G2JRQ6_HUMAN	Ig-like domain-containing protein	none	immune response [GO:0006955]
