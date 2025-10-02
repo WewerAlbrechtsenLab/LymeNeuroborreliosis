@@ -14,6 +14,8 @@ from inmoose.pycombat import pycombat_norm
 from plotly.subplots import make_subplots
 import pimmslearn.sampling
 from pimmslearn.sklearn.ae_transformer import AETransformer
+from plotly.subplots import make_subplots
+
 
 
 def prep_data(info_filepath, proteome_filepath, run='training'):
@@ -277,3 +279,47 @@ def umap_plot(processed_data, protein_cols, index_cols, info, savefig=False, out
             fig.write_image(output_path+"umap_plot_{}_{}.pdf".format(col,title))
         fig.show()
 
+def butterfly_plot(df, var1, var2, var3, error1, error2, name, savesvg=True, group = 'model'):
+    fig = make_subplots(rows=1, cols=2, specs=[[{}, {}]], shared_xaxes=False, shared_yaxes=True, horizontal_spacing=0)
+    fig.append_trace(go.Bar(x = df[var1], y = df[group], text = df[var1], error_x=dict(type='data', array=df[error1]), error_y=dict(type='data', array=df[error1]),
+                        textposition='inside', orientation='h', width=0.7, 
+                        showlegend=False, marker_color='#4472c4'), 1, 1) # 1,1 represents row 1 column 1
+    fig.append_trace(go.Bar(x = df[var2], y = df[group], text = df[var2], error_x=dict(type='data', array=df[error2]), error_y=dict(type='data', array=df[error2]),
+                 textposition='inside', orientation='h', width=0.7, 
+                 showlegend=False, marker_color='#ed7d31'), 1, 2) # 1,2 represents row 1 column 2
+    fig.update_xaxes(title_text="Matthews Correlation Coefficient", row=1, col=1, range=[1,0])
+    fig.update_xaxes(title_text="AUROC", row=1, col=2)
+    fig.update_layout(width=800, height=700, title_x=0.5,xaxis1={'side': 'top'},xaxis2={'side': 'top'},)
+    fig.update_layout(template='plotly_white')
+    if savesvg:
+        fig.write_image('../submission/{}.svg'.format(name))
+    fig.show()
+
+def roc_data(df, model, run):
+    model_df = df.loc[(df.model == model)&(df.run == run)]
+    fpr_mean = np.linspace(0, 1, 100)
+    interp_tprs = []
+    aucs = []
+    mccs = []
+    for cv in list(range(1,5+1)):
+        model_df_sub = model_df.loc[model_df.cv == cv]
+        fpr, tpr, thresholds = roc_curve(model_df_sub.observed, model_df_sub.probability, drop_intermediate=False)
+        interp_tpr = np.interp(fpr_mean, fpr, tpr)
+        interp_tpr[0] = 0.0
+        interp_tprs.append(interp_tpr)
+        aucs.append(roc_auc_score(model_df_sub.observed, model_df_sub.probability))
+        mccs.append(matthews_corrcoef(model_df_sub.observed, model_df_sub.predicted))
+        #print(roc_auc_score(model_df_sub.observed, model_df_sub.probability))
+    tpr_mean     = np.mean(interp_tprs, axis=0)
+    tpr_mean[-1] = 1.0
+    tpr_std      = np.round(np.std(interp_tprs, axis=0),4)
+    tpr_upper    = tpr_mean+tpr_std
+    tpr_lower    = tpr_mean-tpr_std
+    auc_mean = np.round(np.mean(aucs)*100,2)
+    auc_sd = np.round(np.std(aucs)*100,2)
+    ci_lower, ci_upper = np.round([100*x for x in st.t.interval(alpha=0.95, df=len(aucs)-1,loc=np.mean(aucs),scale=st.sem(aucs))],2)
+    
+    mcc_mean = np.round(np.mean(mccs),4)
+    mcc_sd = np.round(np.std(mccs),4)
+    
+    return(fpr_mean, tpr_mean, tpr_upper, tpr_lower, auc_mean, auc_sd, ci_upper, ci_lower, mcc_mean, mcc_sd)
