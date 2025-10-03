@@ -9,4 +9,4 @@ HOWTO:
 2) Run the data preparation notebook (notebook/data_prep.ipynb)
 3) CSF analysis: run the notebook/csf_analysis.ipynb
 4) Plasma analysis: run the notebook/plasma_analysis.ipynb
-
+5) Combined analysis: run the notebook comparison/comparison.ipynb to compute the comparisons between csf and plasma, and with other related publications
