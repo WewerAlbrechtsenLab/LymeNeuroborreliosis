@@ -15,7 +15,8 @@ from plotly.subplots import make_subplots
 import pimmslearn.sampling
 from pimmslearn.sklearn.ae_transformer import AETransformer
 from plotly.subplots import make_subplots
-
+from sklearn.metrics import roc_curve, roc_auc_score, matthews_corrcoef
+import scipy.stats as st
 
 
 def prep_data(info_filepath, proteome_filepath, run='training'):
@@ -295,13 +296,14 @@ def butterfly_plot(df, var1, var2, var3, error1, error2, name, savesvg=True, gro
         fig.write_image('../submission/{}.svg'.format(name))
     fig.show()
 
-def roc_data(df, model, run):
+def roc_data(df, model, run, no_cv=5):
+    print('a')
     model_df = df.loc[(df.model == model)&(df.run == run)]
     fpr_mean = np.linspace(0, 1, 100)
     interp_tprs = []
     aucs = []
     mccs = []
-    for cv in list(range(1,5+1)):
+    for cv in list(range(1,no_cv+1)):
         model_df_sub = model_df.loc[model_df.cv == cv]
         fpr, tpr, thresholds = roc_curve(model_df_sub.observed, model_df_sub.probability, drop_intermediate=False)
         interp_tpr = np.interp(fpr_mean, fpr, tpr)
